@@ -1,0 +1,128 @@
+[18:40:48] AllProtection v4.7 by Opposing (Edited for fr3Sh - Eggdrop 1.8) Loaded...
+[18:40:48] Trying server [amsterdam.nl.eu.undernet.org]:6667
+[18:40:49] Connected to amsterdam.nl.eu.undernet.org
+[18:40:49] -NOTICE- *** Looking up your hostname
+[18:40:49] -NOTICE- *** Checking Ident
+[18:40:49] -NOTICE- *** Found your hostname
+[18:40:49] -NOTICE- *** Got ident response
+[18:40:49] <<freshness>> BIND ROUTINE -- fr3Sh
+[18:40:49] -NOTICE- on 2 ca 1(4) ft 10(10) tr
+[18:40:55] fr3Sh joined #Holland.
+[18:41:02] fr3Sh joined #zoetermeer.
+[18:41:25] Telnet connection: localhost/48662
+[18:41:32] Logged in: ArNz|8o8 (8o8networkz@localhost/48662)
+[18:41:42] fr3Sh joined #Holland.
+[18:42:05] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland AUTH FAILED: wrong password for ArNz|8o8
+[18:42:21] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland AUTH as ArNz|8o8 succeeded
+[18:42:28] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer ACCESS ArNz|8o8
+[18:42:38] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland ACCESS ArNz|8o8
+[18:44:31] Writing user file...
+[18:44:31] Writing info file ...
+[18:44:31] Writing channel file...
+[18:44:31] Restarting...
+[18:44:31] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer RESTART ...
+[18:44:31] AllProtection v4.7 successfully unloaded...
+[18:44:31] Module unloaded: megahal
+[18:44:31] Module unloaded: assoc
+[18:44:31] Module unloaded: console
+[18:44:31] Module unloaded: notes
+[18:44:31] Module unloaded: compress
+[18:44:31] Sending 'share end' to all sharebots...
+[18:44:31] Unloaded sharing module, flushing tbuf's...
+[18:44:31] Module unloaded: share
+[18:44:31] Unloading transfer module, killing all transfer connections...
+[18:44:31] Module unloaded: transfer
+[18:44:31] Module unloaded: irc
+[18:44:31] Module unloaded: ctcp
+[18:44:31] Module unloaded: server
+[18:44:31] Writing channel file...
+[18:44:31] Module unloaded: channels
+[18:44:31] Module unloaded: dns
+[18:44:31] Listening at telnet port 50542 (all).
+[18:44:31] Module loaded: dns             
+[18:44:31] No longer supporting channel #Holland
+[18:44:31] No longer supporting channel #zoetermeer
+[18:44:31] Module loaded: channels        
+[18:44:31] Module loaded: server          
+[18:44:31] Module loaded: ctcp            
+[18:44:31] Module loaded: irc             
+[18:44:31] Module loaded: transfer         (with lang support)
+[18:44:31] Module loaded: share           
+[18:44:31] Module loaded: compress        
+[18:44:31] Module loaded: notes            (with lang support)
+[18:44:31] Module loaded: console          (with lang support)
+[18:44:31] Module loaded: assoc            (with lang support)
+[18:44:31] MegaHAL v3.5 by ^Baron^ loaded.
+[18:44:31] Module loaded: megahal         
+[18:44:31] Userinfo TCL v1.07 loaded (URL BF GF IRL EMAIL DOB PHONE ICQ GENDER IRL).
+[18:44:31] use '.help userinfo' for commands.
+[18:44:31] bseen1.4.2c:  -- Bass's SEEN loaded --
+[18:44:31]      Loading seen database...
+[18:44:31]      Done loading 117 seen records.
+[18:44:31] Verkeerd woord script 1.0a release by ArNz|8o8 loaded
+[18:44:31] Loaded Channel Promo v1.1 by ArNz|8o8
+[18:44:31] Bot Status and Some fun tool by ArNz|8o8 loaded
+[18:44:31] bMotion 0.1.0+svn starting up...
+[18:44:31] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[18:44:32] loaded fact module
+[18:44:32] bMotion: new installation, need to send stats/check version...
+[18:44:32] bMotion 0.1.0+svn AI online :D
+[18:44:32] **********************************
+[18:44:32] *loading a&a light eggdrop script*
+[18:44:32] **********************************
+[18:44:32] + LOADED core
+[18:44:32] + LOADED binds
+[18:44:32] + LOADED xservice module
+[18:44:32] + LOADED 
+[18:44:32] + LOADED en dictionary
+[18:44:32] + LOADED ro dictionary
+[18:44:32] + LOADED owner commands
+[18:44:32] + LOADED global N commands
+[18:44:32] Last message repeated 1 time(s).
+[18:44:32] + LOADED global m commands
+[18:44:32] + LOADED global o commands
+[18:44:32] + LOADED global l commands
+[18:44:32] + LOADED global v commands
+[18:44:32] + LOADED global s commands
+[18:44:32] + LOADED global Q commands
+[18:44:32] + LOADED local N commands
+[18:44:32] + LOADED local X commands
+[18:44:32] + LOADED local n commands
+[18:44:32] + LOADED local m commands
+[18:44:32] + LOADED local o commands
+[18:44:32] + LOADED local l commands
+[18:44:32] + LOADED local v commands
+[18:44:32] + LOADED local q commands
+[18:44:32] + LOADED local s commands
+[18:44:32] + LOADED info module
+[18:44:32] + LOADED stats module
+[18:44:32] **********************************
+[18:44:32] *a&a light loaded successfully :)*
+[18:44:32] **********************************
+[18:44:32] Writing channel file...
+[18:44:32] Userfile loaded, unpacking...
+[18:44:32] AllProtection v4.7 by Opposing (Edited for fr3Sh - Eggdrop 1.8) Loaded...
+[18:44:32] Trying server [amsterdam.nl.eu.undernet.org]:6667
+[18:44:32] Connected to amsterdam.nl.eu.undernet.org
+[18:44:32] -NOTICE- *** Looking up your hostname
+[18:44:33] -NOTICE- *** Checking Ident
+[18:44:33] -NOTICE- *** Got ident response
+[18:44:41] -NOTICE- *** Couldn't look up your hostname
+[18:44:42] <<freshness>> BIND ROUTINE -- fr3Sh
+[18:44:42] -NOTICE- on 2 ca 1(4) ft 10(10) tr
+[18:44:43] fr3Sh joined #Holland.
+[18:44:50] fr3Sh joined #zoetermeer.
+[18:45:31] fr3Sh joined #Holland.
+[18:49:12] Lost dcc connection to ArNz|8o8 (8o8networkz@localhost/48662)
+[18:52:06] Telnet connection: localhost/48708
+[18:52:12] Logged in: ArNz|8o8 (8o8networkz@localhost/48708)
+[18:54:00] *** Call to driftmood
+[19:00:00] <<freshness>> TIMED ROUTINE -- 1 HOUR
+[19:00:00] Writing user file...
+[19:00:00] Writing channel file...
+[19:00:00] Writing info file ...
+[19:01:00] bMotion: autosaving facts...
+[19:09:01] -Verkeerd woord- d0m1n4t0r (D0M1N4T0R) with +g flag said {Ik ben telfort.... Maar dan anders.} on #Holland
+[19:12:00] Backing up seen data...
+[19:13:01] #ArNz|8o8# status
+[19:14:09] -Verkeerd woord- d0m1n4t0r (D0M1N4T0R) with +g flag said {Are you telfort gniffel sissy?} on #Holland

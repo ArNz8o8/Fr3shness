@@ -1,0 +1,136 @@
+#Dynamic Channel File for fr3Sh (eggdrop v1.8.0+infiniteinfo) -- written Sun Mar 20 19:00:00 2016
+
+channel add #Holland { chanmode +tn idle-kick 0 stopnethack-mode 0 revenge-mode 0 need-op {} need-invite {} need-key {} need-unban {} need-limit {} flood-chan 7:20 flood-ctcp 0:0 flood-join 4:40 flood-kick 0:0 flood-deop 3:20 flood-nick 4:40 aop-delay 0:0 ban-type 3 ban-time 15 exempt-time 60 invite-time 60 -enforcebans -dynamicbans +userbans -autoop -autohalfop -bitch +greet -protectops -protecthalfops -protectfriends +dontkickops -statuslog -revenge -revengebot +autovoice -secret -shared +cycle +seen -inactive +dynamicexempts +userexempts +dynamicinvites +userinvites +nodesynch -static }
+channel set #Holland udef-str-ap:level 75
+channel set #Holland udef-str-ap:textl {5:2 60 k:kb 2}
+channel set #Holland udef-str-ap:textc {300:3 120 w:k:kb 2}
+channel set #Holland udef-str-ap:notcl {1:3 20 w:k:kb 2}
+channel set #Holland udef-str-ap:notcc {200:3 180 w:kb 2}
+channel set #Holland udef-str-ap:caps {60:90 120 w:kb 2}
+channel set #Holland udef-str-ap:repeatl {5:10 60 w:k:kb 2}
+channel set #Holland udef-str-ap:repeatc {25 30 w:k:kb 2}
+channel set #Holland udef-str-ap:codes {r:35 b:80 u:80 c:80 90 kb 2}
+channel set #Holland udef-str-ap:adv {+ 180 kb 2}
+channel set #Holland udef-str-ap:antispam {- + 10 10}
+channel set #Holland udef-str-ap:swear {+ 120 w:k:kb 2}
+channel set #Holland udef-str-ap:pqsadv {s:1 a:1}
+channel set #Holland udef-str-ap:ctcps {2:30 180 kb 2}
+channel set #Holland udef-str-ap:massd {5:1 30 kb 2}
+channel set #Holland udef-str-ap:massk {8:2 30 kb 2}
+channel set #Holland udef-str-ap:massb {18:2 30 kb 2}
+channel set #Holland udef-str-ap:limit 0
+channel set #Holland udef-str-ap:cjoin {10:2 120 kb 2}
+channel set #Holland udef-str-ap:partmsgs {180 120 kb 2}
+channel set #Holland udef-str-ap:partmsgc {r:35 b:35 u:35 c:35 30 kb 2}
+channel set #Holland udef-str-ap:revdoor {10 120 w:kb 2}
+channel set #Holland udef-str-ap:nickf {2:60 60 w:k:kb 2}
+channel set #Holland udef-str-ap:clones {3 120 k:kb 2}
+channel set #Holland udef-str-ap:bnicks {+ 120 kb 2}
+channel set #Holland udef-str-ap:drones {+ 180 45 2}
+channel set #Holland udef-str-ap:bidents {+ 120 kb 2}
+channel set #Holland udef-str-ap:bchans {- 90 kb 2 0}
+channel set #Holland udef-str-ap:echans {0 60 w:kb 2 0}
+channel set #Holland udef-str-ap:bctcrs {- 120 kb 2 0}
+channel set #Holland udef-str-ap:ctcpchecks VERSION
+channel set #Holland udef-str-ap:btextl {15:7 mR-k lines.flood 60}
+channel set #Holland udef-str-ap:btextc {550:3 mR-k chars.flood 60}
+channel set #Holland udef-str-ap:bnotcl {4:2 mR-k lines.flood 60}
+channel set #Holland udef-str-ap:bnotcc {500:3 mR-k chars.flood 60}
+channel set #Holland udef-str-ap:bctcp {4:60 mR-k ctcp.flood 60}
+channel set #Holland udef-str-ap:massjoin {9:3 mR-k join.flood 60}
+channel set #Holland udef-str-ap:brevdoor {5:3 mR-k revdoor.flood 60}
+channel set #Holland udef-str-ap:bpartmsg {5:3 mR-k partmsg.flood 60}
+channel set #Holland udef-str-ap:bnickf {5:30 mR-k nick.flood 60}
+channel set #Holland udef-str-ap:bcodes {25:3 mR-k codes.flood 60}
+channel set #Holland +udef-flag-bmotion
+channel set #Holland -udef-flag-antinotice
+channel set #Holland -udef-flag-antiaction
+channel set #Holland +udef-flag-antipub
+channel set #Holland -udef-flag-anticolour
+channel set #Holland -udef-flag-antiunderline
+channel set #Holland -udef-flag-antibold
+channel set #Holland -udef-flag-antireverse
+channel set #Holland -udef-flag-antiurl
+channel set #Holland -udef-flag-antirepeat
+channel set #Holland +udef-flag-limit
+channel set #Holland -udef-flag-voice
+channel set #Holland -udef-flag-op
+channel set #Holland +udef-flag-locked
+channel set #Holland -udef-flag-suspended
+channel set #Holland -udef-flag-topic
+channel set #Holland -udef-flag-enforcetopic
+channel set #Holland +udef-flag-chanserv
+channel set #Holland +udef-flag-secure
+channel set #Holland udef-int-idle-deop 60
+channel set #Holland udef-int-floatmax 0
+channel set #Holland udef-int-floatmargin 0
+channel set #Holland udef-int-floatgrace 0
+channel set #Holland udef-int-floatperiod 0
+channel set #Holland -udef-flag-stats
+channel add #zoetermeer { chanmode +s idle-kick 0 stopnethack-mode 0 revenge-mode 0 need-op {} need-invite {} need-key {} need-unban {} need-limit {} flood-chan 0:0 flood-ctcp 0:0 flood-join 0:0 flood-kick 0:0 flood-deop 0:0 flood-nick 0:0 aop-delay 5:10 ban-type 3 ban-time 120 exempt-time 60 invite-time 60 -enforcebans +dynamicbans +userbans -autoop -autohalfop -bitch +greet -protectops -protecthalfops -protectfriends +dontkickops -statuslog -revenge -revengebot -autovoice +secret -shared +cycle +seen -inactive +dynamicexempts +userexempts +dynamicinvites +userinvites +nodesynch -static }
+channel set #zoetermeer udef-str-ap:level 75
+channel set #zoetermeer udef-str-ap:textl {5:2 60 k:kb 2}
+channel set #zoetermeer udef-str-ap:textc {300:3 120 w:k:kb 2}
+channel set #zoetermeer udef-str-ap:notcl {1:3 20 w:k:kb 2}
+channel set #zoetermeer udef-str-ap:notcc {200:3 180 w:kb 2}
+channel set #zoetermeer udef-str-ap:caps {60:90 120 w:kb 2}
+channel set #zoetermeer udef-str-ap:repeatl {5:10 60 w:k:kb 2}
+channel set #zoetermeer udef-str-ap:repeatc {25 30 w:k:kb 2}
+channel set #zoetermeer udef-str-ap:codes {r:35 b:80 u:80 c:80 90 kb 2}
+channel set #zoetermeer udef-str-ap:adv {+ 180 kb 2}
+channel set #zoetermeer udef-str-ap:antispam {- + 10 10}
+channel set #zoetermeer udef-str-ap:swear {+ 120 w:k:kb 2}
+channel set #zoetermeer udef-str-ap:pqsadv {s:1 a:1}
+channel set #zoetermeer udef-str-ap:ctcps {2:30 180 kb 2}
+channel set #zoetermeer udef-str-ap:massd {5:1 30 kb 2}
+channel set #zoetermeer udef-str-ap:massk {8:2 30 kb 2}
+channel set #zoetermeer udef-str-ap:massb {18:2 30 kb 2}
+channel set #zoetermeer udef-str-ap:limit 8
+channel set #zoetermeer udef-str-ap:cjoin {10:2 120 kb 2}
+channel set #zoetermeer udef-str-ap:partmsgs {180 120 kb 2}
+channel set #zoetermeer udef-str-ap:partmsgc {r:35 b:35 u:35 c:35 30 kb 2}
+channel set #zoetermeer udef-str-ap:revdoor {10 120 w:kb 2}
+channel set #zoetermeer udef-str-ap:nickf {2:60 60 w:k:kb 2}
+channel set #zoetermeer udef-str-ap:clones {3 120 k:kb 2}
+channel set #zoetermeer udef-str-ap:bnicks {+ 120 kb 2}
+channel set #zoetermeer udef-str-ap:drones {+ 180 45 2}
+channel set #zoetermeer udef-str-ap:bidents {+ 120 kb 2}
+channel set #zoetermeer udef-str-ap:bchans {- 90 kb 2 0}
+channel set #zoetermeer udef-str-ap:echans {0 60 w:kb 2 0}
+channel set #zoetermeer udef-str-ap:bctcrs {- 120 kb 2 0}
+channel set #zoetermeer udef-str-ap:ctcpchecks VERSION
+channel set #zoetermeer udef-str-ap:btextl {15:7 mR-k lines.flood 60}
+channel set #zoetermeer udef-str-ap:btextc {550:3 mR-k chars.flood 60}
+channel set #zoetermeer udef-str-ap:bnotcl {4:2 mR-k lines.flood 60}
+channel set #zoetermeer udef-str-ap:bnotcc {500:3 mR-k chars.flood 60}
+channel set #zoetermeer udef-str-ap:bctcp {4:60 mR-k ctcp.flood 60}
+channel set #zoetermeer udef-str-ap:massjoin {9:3 mR-k join.flood 60}
+channel set #zoetermeer udef-str-ap:brevdoor {5:3 mR-k revdoor.flood 60}
+channel set #zoetermeer udef-str-ap:bpartmsg {5:3 mR-k partmsg.flood 60}
+channel set #zoetermeer udef-str-ap:bnickf {5:30 mR-k nick.flood 60}
+channel set #zoetermeer udef-str-ap:bcodes {25:3 mR-k codes.flood 60}
+channel set #zoetermeer +udef-flag-bmotion
+channel set #zoetermeer +udef-flag-antinotice
+channel set #zoetermeer -udef-flag-antiaction
+channel set #zoetermeer +udef-flag-antipub
+channel set #zoetermeer +udef-flag-anticolour
+channel set #zoetermeer -udef-flag-antiunderline
+channel set #zoetermeer -udef-flag-antibold
+channel set #zoetermeer -udef-flag-antireverse
+channel set #zoetermeer -udef-flag-antiurl
+channel set #zoetermeer -udef-flag-antirepeat
+channel set #zoetermeer -udef-flag-limit
+channel set #zoetermeer +udef-flag-voice
+channel set #zoetermeer -udef-flag-op
+channel set #zoetermeer -udef-flag-locked
+channel set #zoetermeer -udef-flag-suspended
+channel set #zoetermeer -udef-flag-topic
+channel set #zoetermeer -udef-flag-enforcetopic
+channel set #zoetermeer -udef-flag-chanserv
+channel set #zoetermeer +udef-flag-secure
+channel set #zoetermeer udef-int-idle-deop 0
+channel set #zoetermeer udef-int-floatmax 0
+channel set #zoetermeer udef-int-floatmargin 0
+channel set #zoetermeer udef-int-floatgrace 0
+channel set #zoetermeer udef-int-floatperiod 0
+channel set #zoetermeer -udef-flag-stats

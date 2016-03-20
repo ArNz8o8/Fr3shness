@@ -1,0 +1,14 @@
+bchans global #edad* #mp3passion #wh #whitehat #aol #username
+bnicks global *porno* *gay* *fun* *cam* *horny* *horney* *fuck* *asshole* *dick* *bitch* *fagget* *shithead* *shitter* *penis* *pussy* *fukker*
+bidents global *porno* *horny* *horney* *fuck* *asshole* *dick* *bitch* *fagget* *shithead* *shitter* *penis* *pussy* *fukker*
+bwords global *fuck* "*bastard *" *cock* "* cunt *" *ommak* *fag* "* shit*" *asshole* *bitch* *pussy* "* whore *" "* slut *" *dickhead* *horny* *salop* *conasse* "* shithead *" *fagget* "* dick? *" "* fag? *" "* fuker *" *penis* "* fuk *"
+adexempts global %chan holland-stats.8o8networkz.tk
+droneexempts global *example1*!*@* *!*example2*@* *!*@example3.net
+bctcrs global "*exploitation script*"
+adwords global "*join *" "*plz visit*"
+greetexempts global *example*!*@* *!*example*@*.example.net
+ptextl punish 12:6
+ptextc punish 750:6
+pnotil punish 6:3
+pnotic punish 600:4
+pctcpf punish 4:20

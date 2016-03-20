@@ -1,0 +1,56 @@
+[07:21:23] Nick change: ArNz|Away -> ArNz|8o8
+[08:06:17] ArNz|8o8 (8o8network@8o8networkz.users.undernet.org) got netsplit.
+[08:08:23] ArNz|8o8 (8o8network@8o8networkz.users.undernet.org) returned to #zoetermeer.
+[08:08:23] #Zoetermeer: mode change '+o ArNz|8o8' by *.undernet.org
+[13:21:32] Licious27286 (8o8network@turbous.xshellz.com) joined #zoetermeer.
+[13:26:05] <Licious27286> ArNz|8o8 FAILED: I am not OPped on #Zoetermeer
+[13:26:05] #Zoetermeer: mode change '+o Licious27286' by fr3Sh!8o8network@freshprinses.users.undernet.org
+[13:27:06] <ArNz|8o8> .help
+[13:27:09] <Licious27286> ArNz|8o8 CORECT USAGE: 02Licious27286 help <command> or02 !help <command> or02 /msg Licious27286 help <command>, to see all the commands type: 02!commands 
+[13:27:34] <ArNz|8o8> .help
+[13:27:36] <Licious27286> ArNz|8o8 CORECT USAGE: 02Licious27286 help <command> or02 !help <command> or02 /msg Licious27286 help <command>, to see all the commands type: 02!commands 
+[13:27:42] <ArNz|8o8> .commands
+[13:32:25] <ArNz|8o8> .deop ArNz|8o8 
+[13:32:26] #Zoetermeer: mode change '-o ArNz|8o8' by Licious27286!8o8network@turbous.xshellz.com
+[13:32:27] #Zoetermeer: mode change '+o ArNz|8o8' by fr3Sh!8o8network@freshprinses.users.undernet.org
+[13:36:02] <ArNz|8o8> .botstatus
+[13:36:02] <Licious27286> ArNz|8o8 Users: 022, on partyline: 021, channels: 021, ppl: 023, BOTS: 021 (1 #Holland)
+[13:36:04] <Licious27286> ArNz|8o8 Uptime: 0214 minutes 37 seconds; ON-LINE: 0214 minutes 34 seconds; OS: 02Linux 3.14.51-grsec-b0lt; SHELL: 02 04:36:02 up 66 days, 45 min,  8 users,  load average: 0.72, 0.58, 0.52
+[13:36:07] <Licious27286> ArNz|8o8 Server: 02amsterdam.nl.eu.undernet.org:6667, host: 02Licious27286!8o8network@turbous.xshellz.com
+[13:36:10] <Licious27286> ArNz|8o8 Owners: 02ArNz|8o8
+[13:36:47] <ArNz|8o8> .uptime
+[13:36:49] <Licious27286> ArNz|8o8 UPTIME: 0215 minutes 22 seconds; ON-LINE: 0215 minutes 19 seconds; SERVER: 02 04:36:47 up 66 days, 46 min,  8 users,  load average: 0.69, 0.58, 0.52;
+[13:37:13] <ArNz|8o8> .kiss ArNz|8o8 
+[13:37:13] <Licious27286> ArNz|8o8 FAILED: channel's kiss is not set up yet, use !chanset kiss
+[13:37:21] <ArNz|8o8> !chanset kiss
+[13:37:24] <Licious27286> ArNz|8o8 RESET #Zoetermeer kiss.
+[13:37:31] <ArNz|8o8> .kiss Licious27286 
+[13:37:31] <Licious27286> ArNz|8o8 FAILED: channel's kiss is not set up yet, use !chanset kiss
+[13:39:08] <ArNz|8o8> .rules
+[13:39:09] <Licious27286> ArNz|8o8 FAILED: channel's rules is not set up yet, use !chanset rules
+[13:39:50] <ArNz|8o8> .time
+[13:39:52] <Licious27286> ArNz|8o8 Wed Feb 24 04:39:49 2016
+[13:42:25] <ArNz|8o8> .stats
+[13:42:26] <Licious27286> ArNz|8o8 USAGE: !stats <channels|join|purge|templeave|time|joins|topics|traffic|users|bans|kicks|deops|ops|voices|devoices|banned|deopped|kicked|all> [hour|day|week|month|year] [global|top] [min|max] [$value] http://ascript.name?stats
+[13:42:41] <ArNz|8o8> .stats channels
+[13:42:44] <Licious27286> ArNz|8o8 021 channels: 02#zoetermeer
+[13:42:51] <ArNz|8o8> .stats time
+[13:42:52] <hal> (17:49, 2 Users, load average: 0,09, 0.58, 0,12.
+[13:42:52] <Licious27286> ArNz|8o8 02#Zoetermeer total stats time 0 seconds
+[13:43:33] Nick change: Licious27286 -> Licious
+[13:44:40] <ArNz|8o8> .channels
+[13:44:42] <Licious> ArNz|8o8 023 ppl, 021 channels: @#Zoetermeer 04(3)
+[13:52:13] <ArNz|8o8> .time
+[13:52:14] <Licious> ArNz|8o8 Wed Feb 24 04:52:12 2016
+[13:53:34] <ArNz|8o8> .time
+[13:53:36] <Licious> ArNz|8o8 Wed Feb 24 13:53:33 2016
+[13:56:43] <ArNz|8o8> .chanset idle-deop 60
+[13:56:45] <Licious> ArNz|8o8 SET 02#Zoetermeer idle-deop 60
+[14:00:38] <ArNz|8o8> .chanset +autovoice
+[14:00:38] <Licious> ArNz|8o8 SET 02#Zoetermeer +autovoice 
+[14:06:22] <ArNz|8o8> .seen ArNz|8o8 
+[14:09:06] Licious (8o8network@turbous.xshellz.com) left irc: Quit: ArNz|8o8
+[15:57:43] fr3Sh joined #zoetermeer.
+[15:57:54] #zoetermeer: mode change '+o fr3Sh' by ArNz|8o8!8o8network@8o8networkz.users.undernet.org
+[15:58:01] #zoetermeer: mode change '+l 10' by fr3Sh!8o8network@sovereign.users.undernet.org
+[15:58:17] <ArNz|8o8> !uptime

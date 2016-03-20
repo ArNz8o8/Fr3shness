@@ -1,0 +1,1684 @@
+[00:00:00] Writing user file...
+[00:00:00] Writing channel file...
+[00:00:00] Writing info file ...
+[00:01:00] bMotion: autosaving facts...
+[00:12:00] Backing up seen data...
+[00:30:00] bMotion: running level 4 self-diagnostic
+[00:35:00] Trimming brain...
+[00:35:00] Brain trimmed
+[00:35:00] Saving brain...
+[01:00:00] <<frisheid>> TIMED ROUTINE -- 24 HOURS
+[01:00:00] Backing up channel file...
+[01:00:00] Backing up user file...
+[01:00:00] Backing up info file...
+[01:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[01:00:00] Writing user file...
+[01:00:00] Writing channel file...
+[01:00:00] Writing info file ...
+[01:01:00] bMotion: autosaving facts...
+[01:12:00] Backing up seen data...
+[01:30:00] bMotion: running level 4 self-diagnostic
+[01:35:00] Trimming brain...
+[01:35:00] Brain trimmed
+[01:35:00] Saving brain...
+[02:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[02:00:00] Writing user file...
+[02:00:00] Writing channel file...
+[02:00:00] Writing info file ...
+[02:01:00] bMotion: autosaving facts...
+[02:12:00] Backing up seen data...
+[02:30:00] bMotion: running level 4 self-diagnostic
+[02:35:00] Trimming brain...
+[02:35:00] Brain trimmed
+[02:35:00] Saving brain...
+[03:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[03:00:00] Writing user file...
+[03:00:00] Writing channel file...
+[03:00:00] Writing info file ...
+[03:01:00] bMotion: autosaving facts...
+[03:01:00] bMotion: preparing to go to bed
+[03:02:00] bMotion: gone to sleep
+[03:12:00] Backing up seen data...
+[03:30:00] bMotion: running level 4 self-diagnostic
+[03:35:00] Trimming brain...
+[03:35:00] Brain trimmed
+[03:35:00] Saving brain...
+[04:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[04:00:00] Writing user file...
+[04:00:00] Writing channel file...
+[04:00:00] Writing info file ...
+[04:01:00] bMotion: autosaving facts...
+[04:12:00] Backing up seen data...
+[04:30:00] bMotion: running level 4 self-diagnostic
+[04:35:00] Trimming brain...
+[04:35:00] Brain trimmed
+[04:35:00] Saving brain...
+[05:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[05:00:00] Writing user file...
+[05:00:00] Writing channel file...
+[05:00:00] Writing info file ...
+[05:01:00] bMotion: autosaving facts...
+[05:12:00] Backing up seen data...
+[05:30:00] bMotion: running level 4 self-diagnostic
+[05:35:00] Trimming brain...
+[05:35:00] Brain trimmed
+[05:35:00] Saving brain...
+[06:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[06:00:00] Writing user file...
+[06:00:00] Writing channel file...
+[06:00:00] Writing info file ...
+[06:01:00] bMotion: autosaving facts...
+[06:02:00] bMotion: really quite tired today... think I'll stay in bed a bit longer
+[06:02:00] bMotion: going to oversleep by 67 minutes
+[06:12:00] Backing up seen data...
+[06:12:20] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland AUTH as ArNz|8o8 succeeded
+[06:14:38] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland CHANINFO ...
+[06:16:04] Tcl error [blocked:words]: wrong # args: should be "strftime format ?time?"
+[06:18:43] Last message repeated 1 time(s).
+[06:18:43] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer WHOIS FAILED: no such user (choepa)
+[06:18:57] Tcl error [blocked:words]: wrong # args: should be "strftime format ?time?"
+[06:19:14] Last message repeated 2 time(s).
+[06:19:14] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer CHANINFO ...
+[06:20:04] Writing user file...
+[06:20:04] Writing channel file...
+[06:20:04] Writing info file ...
+[06:20:04] Rehashing...
+[06:20:04] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer REHASH ...
+[06:20:04] Writing channel file...
+[06:20:04] Listening at telnet port 50542 (all).
+[06:20:04] bseen1.4.2c:  -- Bass's SEEN loaded --
+[06:20:04] bMotion 0.1.0+svn starting up...
+[06:20:04] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[06:20:05] loaded fact module
+[06:20:06] bMotion: new installation, need to send stats/check version...
+[06:20:06] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[06:20:06]          this is not required, but is strongly recommended
+[06:20:06] bMotion 0.1.0+svn AI online :D
+[06:20:06] Wordkick - 1.0 release version by ArNz|8o8
+[06:20:06] **********************************
+[06:20:06] *loading a&a light eggdrop script*
+[06:20:06] **********************************
+[06:20:06] + LOADED core
+[06:20:06] + LOADED binds
+[06:20:06] + LOADED xservice module
+[06:20:06] + LOADED 
+[06:20:06] + LOADED en dictionary
+[06:20:06] + LOADED ro dictionary
+[06:20:06] + LOADED owner commands
+[06:20:06] + LOADED global N commands
+[06:20:06] Last message repeated 1 time(s).
+[06:20:06] + LOADED global m commands
+[06:20:06] + LOADED global o commands
+[06:20:06] + LOADED global l commands
+[06:20:06] + LOADED global v commands
+[06:20:06] + LOADED global s commands
+[06:20:06] + LOADED global Q commands
+[06:20:06] + LOADED local N commands
+[06:20:06] + LOADED local X commands
+[06:20:06] + LOADED local n commands
+[06:20:06] + LOADED local m commands
+[06:20:06] + LOADED local o commands
+[06:20:06] + LOADED local l commands
+[06:20:06] + LOADED local v commands
+[06:20:06] + LOADED local q commands
+[06:20:06] + LOADED local s commands
+[06:20:06] + LOADED info module
+[06:20:06] + LOADED stats module
+[06:20:06] **********************************
+[06:20:06] *a&a light loaded successfully :)*
+[06:20:06] **********************************
+[06:20:06] Writing channel file...
+[06:20:06] Userfile loaded, unpacking...
+[06:20:29] Tcl error [blocked:words]: wrong # args: should be "strftime format ?time?"
+[06:20:51] Telnet connection: localhost/45859
+[06:20:58] Logged in: ArNz|8o8 (8o8networkz@localhost/45859)
+[06:21:07] Tcl error [blocked:words]: wrong # args: should be "strftime format ?time?"
+[06:24:46] #ArNz|8o8# rehash
+[06:24:46] Writing user file...
+[06:24:46] Writing channel file...
+[06:24:46] Writing info file ...
+[06:24:46] Rehashing ...
+[06:24:46] Writing channel file...
+[06:24:46] Listening at telnet port 50542 (all).
+[06:24:46] bseen1.4.2c:  -- Bass's SEEN loaded --
+[06:24:46] bMotion 0.1.0+svn starting up...
+[06:24:46] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[06:24:47] loaded fact module
+[06:24:47] bMotion: new installation, need to send stats/check version...
+[06:24:47] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[06:24:47]          this is not required, but is strongly recommended
+[06:24:47] bMotion 0.1.0+svn AI online :D
+[06:24:47] Wordkick - 1.0 release version by ArNz|8o8
+[06:24:47] **********************************
+[06:24:47] *loading a&a light eggdrop script*
+[06:24:47] **********************************
+[06:24:47] + LOADED core
+[06:24:47] + LOADED binds
+[06:24:47] + LOADED xservice module
+[06:24:47] + LOADED 
+[06:24:47] + LOADED en dictionary
+[06:24:47] + LOADED ro dictionary
+[06:24:47] + LOADED owner commands
+[06:24:47] + LOADED global N commands
+[06:24:47] Last message repeated 1 time(s).
+[06:24:47] + LOADED global m commands
+[06:24:47] + LOADED global o commands
+[06:24:47] + LOADED global l commands
+[06:24:47] + LOADED global v commands
+[06:24:47] + LOADED global s commands
+[06:24:47] + LOADED global Q commands
+[06:24:47] + LOADED local N commands
+[06:24:47] + LOADED local X commands
+[06:24:47] + LOADED local n commands
+[06:24:47] + LOADED local m commands
+[06:24:47] + LOADED local o commands
+[06:24:47] + LOADED local l commands
+[06:24:47] + LOADED local v commands
+[06:24:47] + LOADED local q commands
+[06:24:47] + LOADED local s commands
+[06:24:47] + LOADED info module
+[06:24:47] + LOADED stats module
+[06:24:47] **********************************
+[06:24:47] *a&a light loaded successfully :)*
+[06:24:47] **********************************
+[06:24:47] Writing channel file...
+[06:24:47] Userfile loaded, unpacking...
+[06:24:54] Banned choepa@#zoetermeer for using telfort.
+[06:26:36] Lost dcc connection to ArNz|8o8 (8o8networkz@localhost/45859)
+[06:30:00] bMotion: running level 4 self-diagnostic
+[06:33:00] plural: options list is plural
+[06:35:00] Trimming brain...
+[06:35:00] Brain trimmed
+[06:35:00] Saving brain...
+[06:40:00] No longer banning *!54685c8c@*.kiwiirc.com on #zoetermeer (expired)
+[06:44:19] Writing user file...
+[06:44:19] Writing channel file...
+[06:44:19] Writing info file ...
+[06:44:19] Rehashing...
+[06:44:19] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer REHASH ...
+[06:44:19] Writing channel file...
+[06:44:19] Listening at telnet port 50542 (all).
+[06:44:19] bseen1.4.2c:  -- Bass's SEEN loaded --
+[06:44:19] bMotion 0.1.0+svn starting up...
+[06:44:19] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[06:44:20] loaded fact module
+[06:44:20] bMotion: new installation, need to send stats/check version...
+[06:44:20] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[06:44:20]          this is not required, but is strongly recommended
+[06:44:20] bMotion 0.1.0+svn AI online :D
+[06:44:20] Wordkick - 1.0 release version by ArNz|8o8
+[06:44:20] **********************************
+[06:44:20] *loading a&a light eggdrop script*
+[06:44:20] **********************************
+[06:44:20] + LOADED core
+[06:44:20] + LOADED binds
+[06:44:20] + LOADED xservice module
+[06:44:20] + LOADED 
+[06:44:20] + LOADED en dictionary
+[06:44:20] + LOADED ro dictionary
+[06:44:20] + LOADED owner commands
+[06:44:20] + LOADED global N commands
+[06:44:20] Last message repeated 1 time(s).
+[06:44:20] + LOADED global m commands
+[06:44:20] + LOADED global o commands
+[06:44:20] + LOADED global l commands
+[06:44:20] + LOADED global v commands
+[06:44:20] + LOADED global s commands
+[06:44:20] + LOADED global Q commands
+[06:44:20] + LOADED local N commands
+[06:44:20] + LOADED local X commands
+[06:44:20] + LOADED local n commands
+[06:44:20] + LOADED local m commands
+[06:44:20] + LOADED local o commands
+[06:44:20] + LOADED local l commands
+[06:44:20] + LOADED local v commands
+[06:44:20] + LOADED local q commands
+[06:44:20] + LOADED local s commands
+[06:44:20] + LOADED info module
+[06:44:20] + LOADED stats module
+[06:44:20] **********************************
+[06:44:20] *a&a light loaded successfully :)*
+[06:44:20] **********************************
+[06:44:20] Writing channel file...
+[06:44:20] Userfile loaded, unpacking...
+[06:44:38] Banned choepa@#zoetermeer for using telfort.
+[06:45:18] Telnet connection: localhost/45967
+[06:45:24] Logged in: ArNz|8o8 (8o8networkz@localhost/45967)
+[06:45:29] #ArNz|8o8# restart
+[06:45:29] Writing user file...
+[06:45:29] Writing channel file...
+[06:45:29] Writing info file ...
+[06:45:29] Restarting ...
+[06:45:29] Module unloaded: megahal
+[06:45:29] Module unloaded: assoc
+[06:45:29] Module unloaded: console
+[06:45:29] Module unloaded: notes
+[06:45:29] Module unloaded: compress
+[06:45:29] Sending 'share end' to all sharebots...
+[06:45:29] Unloaded sharing module, flushing tbuf's...
+[06:45:29] Module unloaded: share
+[06:45:29] Unloading transfer module, killing all transfer connections...
+[06:45:29] Module unloaded: transfer
+[06:45:29] Module unloaded: irc
+[06:45:29] Module unloaded: ctcp
+[06:45:29] Module unloaded: server
+[06:45:29] Writing channel file...
+[06:45:29] Module unloaded: channels
+[06:45:29] Module unloaded: dns
+[06:45:29] Listening at telnet port 50542 (all).
+[06:45:29] Module loaded: dns             
+[06:45:29] No longer supporting channel #Holland
+[06:45:29] No longer supporting channel #zoetermeer
+[06:45:29] Module loaded: channels        
+[06:45:29] Module loaded: server          
+[06:45:29] Module loaded: ctcp            
+[06:45:29] Module loaded: irc             
+[06:45:29] Module loaded: transfer         (with lang support)
+[06:45:29] Module loaded: share           
+[06:45:29] Module loaded: compress        
+[06:45:29] Module loaded: notes            (with lang support)
+[06:45:29] Module loaded: console          (with lang support)
+[06:45:29] Module loaded: assoc            (with lang support)
+[06:45:30] MegaHAL v3.5 by ^Baron^ loaded.
+[06:45:30] Module loaded: megahal         
+[06:45:30] bseen1.4.2c:  -- Bass's SEEN loaded --
+[06:45:30]      Loading seen database...
+[06:45:30]      Done loading 87 seen records.
+[06:45:30] bMotion 0.1.0+svn starting up...
+[06:45:30] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[06:45:31] loaded fact module
+[06:45:31] bMotion: new installation, need to send stats/check version...
+[06:45:31] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[06:45:31]          this is not required, but is strongly recommended
+[06:45:31] bMotion 0.1.0+svn AI online :D
+[06:45:31] Wordkick - 1.0 release version by ArNz|8o8
+[06:45:31] **********************************
+[06:45:31] *loading a&a light eggdrop script*
+[06:45:31] **********************************
+[06:45:31] + LOADED core
+[06:45:31] + LOADED binds
+[06:45:31] + LOADED xservice module
+[06:45:31] + LOADED 
+[06:45:31] + LOADED en dictionary
+[06:45:31] + LOADED ro dictionary
+[06:45:31] + LOADED owner commands
+[06:45:31] + LOADED global N commands
+[06:45:31] Last message repeated 1 time(s).
+[06:45:31] + LOADED global m commands
+[06:45:31] + LOADED global o commands
+[06:45:31] + LOADED global l commands
+[06:45:31] + LOADED global v commands
+[06:45:31] + LOADED global s commands
+[06:45:31] + LOADED global Q commands
+[06:45:31] + LOADED local N commands
+[06:45:31] + LOADED local X commands
+[06:45:31] + LOADED local n commands
+[06:45:31] + LOADED local m commands
+[06:45:31] + LOADED local o commands
+[06:45:31] + LOADED local l commands
+[06:45:31] + LOADED local v commands
+[06:45:31] + LOADED local q commands
+[06:45:31] + LOADED local s commands
+[06:45:31] + LOADED info module
+[06:45:31] + LOADED stats module
+[06:45:31] **********************************
+[06:45:31] *a&a light loaded successfully :)*
+[06:45:31] **********************************
+[06:45:31] Writing channel file...
+[06:45:31] Userfile loaded, unpacking...
+[06:45:31] Trying server [amsterdam.nl.eu.undernet.org]:6667
+[06:45:31] Connected to amsterdam.nl.eu.undernet.org
+[06:45:31] -NOTICE- *** Looking up your hostname
+[06:45:31] -NOTICE- *** Checking Ident
+[06:45:31] -NOTICE- *** Found your hostname
+[06:45:32] -NOTICE- *** Got ident response
+[06:47:45] #ArNz|8o8# restart
+[06:47:45] Writing user file...
+[06:47:45] Writing channel file...
+[06:47:45] Writing info file ...
+[06:47:45] Restarting ...
+[06:47:45] Module unloaded: megahal
+[06:47:45] Module unloaded: assoc
+[06:47:45] Module unloaded: console
+[06:47:45] Module unloaded: notes
+[06:47:45] Module unloaded: compress
+[06:47:45] Sending 'share end' to all sharebots...
+[06:47:45] Unloaded sharing module, flushing tbuf's...
+[06:47:45] Module unloaded: share
+[06:47:45] Unloading transfer module, killing all transfer connections...
+[06:47:45] Module unloaded: transfer
+[06:47:45] Module unloaded: irc
+[06:47:45] Module unloaded: ctcp
+[06:47:45] Module unloaded: server
+[06:47:45] Writing channel file...
+[06:47:45] Module unloaded: channels
+[06:47:45] Module unloaded: dns
+[06:47:45] Listening at telnet port 50542 (all).
+[06:47:45] Module loaded: dns             
+[06:47:45] No longer supporting channel #Holland
+[06:47:45] No longer supporting channel #zoetermeer
+[06:47:45] Module loaded: channels        
+[06:47:45] Module loaded: server          
+[06:47:45] Module loaded: ctcp            
+[06:47:45] Module loaded: irc             
+[06:47:45] Module loaded: transfer         (with lang support)
+[06:47:45] Module loaded: share           
+[06:47:45] Module loaded: compress        
+[06:47:45] Module loaded: notes            (with lang support)
+[06:47:45] Module loaded: console          (with lang support)
+[06:47:45] Module loaded: assoc            (with lang support)
+[06:47:45] MegaHAL v3.5 by ^Baron^ loaded.
+[06:47:45] Module loaded: megahal         
+[06:47:45] bseen1.4.2c:  -- Bass's SEEN loaded --
+[06:47:45]      Loading seen database...
+[06:47:45]      Done loading 87 seen records.
+[06:47:45] bMotion 0.1.0+svn starting up...
+[06:47:45] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[06:47:46] loaded fact module
+[06:47:46] bMotion: new installation, need to send stats/check version...
+[06:47:46] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[06:47:46]          this is not required, but is strongly recommended
+[06:47:46] bMotion 0.1.0+svn AI online :D
+[06:47:46] Wordkick - 1.0 release version by ArNz|8o8
+[06:47:46] **********************************
+[06:47:46] *loading a&a light eggdrop script*
+[06:47:46] **********************************
+[06:47:46] + LOADED core
+[06:47:46] + LOADED binds
+[06:47:46] + LOADED xservice module
+[06:47:46] + LOADED 
+[06:47:46] + LOADED en dictionary
+[06:47:46] + LOADED ro dictionary
+[06:47:46] + LOADED owner commands
+[06:47:46] + LOADED global N commands
+[06:47:46] Last message repeated 1 time(s).
+[06:47:46] + LOADED global m commands
+[06:47:46] + LOADED global o commands
+[06:47:46] + LOADED global l commands
+[06:47:46] + LOADED global v commands
+[06:47:46] + LOADED global s commands
+[06:47:46] + LOADED global Q commands
+[06:47:46] + LOADED local N commands
+[06:47:46] + LOADED local X commands
+[06:47:46] + LOADED local n commands
+[06:47:46] + LOADED local m commands
+[06:47:46] + LOADED local o commands
+[06:47:46] + LOADED local l commands
+[06:47:46] + LOADED local v commands
+[06:47:46] + LOADED local q commands
+[06:47:46] + LOADED local s commands
+[06:47:46] + LOADED info module
+[06:47:46] + LOADED stats module
+[06:47:46] **********************************
+[06:47:46] *a&a light loaded successfully :)*
+[06:47:46] **********************************
+[06:47:46] Writing channel file...
+[06:47:46] Userfile loaded, unpacking...
+[06:47:46] Trying server [amsterdam.nl.eu.undernet.org]:6667
+[06:47:46] Connected to amsterdam.nl.eu.undernet.org
+[06:47:46] -NOTICE- *** Looking up your hostname
+[06:47:47] -NOTICE- *** Checking Ident
+[06:47:47] -NOTICE- *** Found your hostname
+[06:47:47] -NOTICE- *** Got ident response
+[06:47:47] <<frisheid>> BIND ROUTINE -- fr3Sh
+[06:47:48] -NOTICE- on 2 ca 1(4) ft 10(10) tr
+[06:47:53] fr3Sh joined #Holland.
+[06:48:01] fr3Sh joined #zoetermeer.
+[06:48:41] fr3Sh joined #Holland.
+[06:49:56] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland AUTH as ArNz|8o8 succeeded
+[06:50:04] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer UNBAN *!54685c8c@*.kiwiirc.com, 1 BotBAN & 1 ChanBAN
+[06:50:15] Banned choepa@#zoetermeer for using telfort.
+[06:50:46] #ArNz|8o8# rehash
+[06:50:46] Writing user file...
+[06:50:46] Writing channel file...
+[06:50:46] Writing info file ...
+[06:50:46] Rehashing ...
+[06:50:46] Writing channel file...
+[06:50:46] Listening at telnet port 50542 (all).
+[06:50:46] bseen1.4.2c:  -- Bass's SEEN loaded --
+[06:50:46] bMotion 0.1.0+svn starting up...
+[06:50:46] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[06:50:47] loaded fact module
+[06:50:47] bMotion: new installation, need to send stats/check version...
+[06:50:47] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[06:50:47]          this is not required, but is strongly recommended
+[06:50:47] bMotion 0.1.0+svn AI online :D
+[06:50:47] Wordkick - 1.0 release version by ArNz|8o8
+[06:50:47] **********************************
+[06:50:47] *loading a&a light eggdrop script*
+[06:50:47] **********************************
+[06:50:47] + LOADED core
+[06:50:47] + LOADED binds
+[06:50:47] + LOADED xservice module
+[06:50:47] + LOADED 
+[06:50:47] + LOADED en dictionary
+[06:50:47] + LOADED ro dictionary
+[06:50:47] + LOADED owner commands
+[06:50:47] + LOADED global N commands
+[06:50:47] Last message repeated 1 time(s).
+[06:50:47] + LOADED global m commands
+[06:50:47] + LOADED global o commands
+[06:50:47] + LOADED global l commands
+[06:50:47] + LOADED global v commands
+[06:50:47] + LOADED global s commands
+[06:50:47] + LOADED global Q commands
+[06:50:47] + LOADED local N commands
+[06:50:47] + LOADED local X commands
+[06:50:47] + LOADED local n commands
+[06:50:47] + LOADED local m commands
+[06:50:47] + LOADED local o commands
+[06:50:47] + LOADED local l commands
+[06:50:47] + LOADED local v commands
+[06:50:47] + LOADED local q commands
+[06:50:47] + LOADED local s commands
+[06:50:47] + LOADED info module
+[06:50:47] + LOADED stats module
+[06:50:47] **********************************
+[06:50:47] *a&a light loaded successfully :)*
+[06:50:47] **********************************
+[06:50:47] Writing channel file...
+[06:50:47] Userfile loaded, unpacking...
+[06:50:53] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer UNBAN *!54685c8c@*.kiwiirc.com, 1 BotBAN & 1 ChanBAN
+[06:51:12] Banned choepa@#zoetermeer for using telfort.
+[06:51:17] Lost dcc connection to ArNz|8o8 (8o8networkz@localhost/45967)
+[06:57:00] No longer banning *!54685c8c@*.kiwiirc.com on #zoetermeer (expired)
+[06:57:00] *** Call to driftmood
+[07:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[07:00:00] Writing user file...
+[07:00:00] Writing channel file...
+[07:00:00] Writing info file ...
+[07:01:00] bMotion: autosaving facts...
+[07:12:00] Backing up seen data...
+[07:30:00] bMotion: running level 4 self-diagnostic
+[07:35:00] Trimming brain...
+[07:35:00] Brain trimmed
+[07:35:00] Saving brain...
+[08:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[08:00:00] Writing user file...
+[08:00:00] Writing channel file...
+[08:00:00] Writing info file ...
+[08:01:00] bMotion: autosaving facts...
+[08:04:38] Banned ArNz|w0rk@#zoetermeer for using telfort.
+[08:08:52] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland AUTH as ArNz|8o8 succeeded
+[08:09:04] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer WHOIS ArNz|8o8
+[08:09:17] Last message repeated 1 time(s).
+[08:09:17] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer WHOIS Arnz|w0rk
+[08:10:00] No longer banning *!~8o8@*.210.247 on #zoetermeer (expired)
+[08:10:02] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer CHATTR FAILED: invalid flags ()
+[08:10:11] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer CHATTR arnz|w0rk +gov
+[08:12:00] Backing up seen data...
+[08:15:49] Telnet connection: 145.52.92.161/49414
+[08:15:49] Timeout/EOF ident connection
+[08:15:56] Logged in: ArNz|8o8 (telnet@145.52.92.161/49414)
+[08:16:04] #ArNz|8o8# rehash
+[08:16:04] Writing user file...
+[08:16:04] Writing channel file...
+[08:16:04] Writing info file ...
+[08:16:04] Rehashing ...
+[08:16:04] Writing channel file...
+[08:16:04] Listening at telnet port 50542 (all).
+[08:16:04] bseen1.4.2c:  -- Bass's SEEN loaded --
+[08:16:04] bMotion 0.1.0+svn starting up...
+[08:16:04] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[08:16:05] loaded fact module
+[08:16:05] bMotion: new installation, need to send stats/check version...
+[08:16:05] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[08:16:05]          this is not required, but is strongly recommended
+[08:16:05] bMotion 0.1.0+svn AI online :D
+[08:16:05] Wordkick - 1.0 release version by ArNz|8o8
+[08:16:05] **********************************
+[08:16:05] *loading a&a light eggdrop script*
+[08:16:05] **********************************
+[08:16:05] + LOADED core
+[08:16:05] + LOADED binds
+[08:16:05] + LOADED xservice module
+[08:16:05] + LOADED 
+[08:16:05] + LOADED en dictionary
+[08:16:05] + LOADED ro dictionary
+[08:16:05] + LOADED owner commands
+[08:16:05] + LOADED global N commands
+[08:16:05] Last message repeated 1 time(s).
+[08:16:05] + LOADED global m commands
+[08:16:05] + LOADED global o commands
+[08:16:05] + LOADED global l commands
+[08:16:05] + LOADED global v commands
+[08:16:05] + LOADED global s commands
+[08:16:05] + LOADED global Q commands
+[08:16:05] + LOADED local N commands
+[08:16:05] + LOADED local X commands
+[08:16:05] + LOADED local n commands
+[08:16:05] + LOADED local m commands
+[08:16:05] + LOADED local o commands
+[08:16:05] + LOADED local l commands
+[08:16:05] + LOADED local v commands
+[08:16:05] + LOADED local q commands
+[08:16:05] + LOADED local s commands
+[08:16:05] + LOADED info module
+[08:16:05] + LOADED stats module
+[08:16:05] **********************************
+[08:16:05] *a&a light loaded successfully :)*
+[08:16:05] **********************************
+[08:16:05] Writing channel file...
+[08:16:05] Userfile loaded, unpacking...
+[08:26:24] #ArNz|8o8# rehash
+[08:26:24] Writing user file...
+[08:26:24] Writing channel file...
+[08:26:24] Writing info file ...
+[08:26:24] Rehashing ...
+[08:26:24] Writing channel file...
+[08:26:24] Listening at telnet port 50542 (all).
+[08:26:24] bseen1.4.2c:  -- Bass's SEEN loaded --
+[08:26:24] bMotion 0.1.0+svn starting up...
+[08:26:24] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[08:26:25] loaded fact module
+[08:26:25] bMotion: new installation, need to send stats/check version...
+[08:26:25] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[08:26:25]          this is not required, but is strongly recommended
+[08:26:25] bMotion 0.1.0+svn AI online :D
+[08:26:25] Wordkick 2 - Anti Advertise Script 1.0 (release) by ArNz|8o8 Loaded
+[08:26:25] **********************************
+[08:26:25] *loading a&a light eggdrop script*
+[08:26:25] **********************************
+[08:26:25] + LOADED core
+[08:26:25] + LOADED binds
+[08:26:25] + LOADED xservice module
+[08:26:25] + LOADED 
+[08:26:25] + LOADED en dictionary
+[08:26:25] + LOADED ro dictionary
+[08:26:25] + LOADED owner commands
+[08:26:25] + LOADED global N commands
+[08:26:25] Last message repeated 1 time(s).
+[08:26:25] + LOADED global m commands
+[08:26:25] + LOADED global o commands
+[08:26:25] + LOADED global l commands
+[08:26:25] + LOADED global v commands
+[08:26:25] + LOADED global s commands
+[08:26:25] + LOADED global Q commands
+[08:26:25] + LOADED local N commands
+[08:26:25] + LOADED local X commands
+[08:26:25] + LOADED local n commands
+[08:26:25] + LOADED local m commands
+[08:26:25] + LOADED local o commands
+[08:26:25] + LOADED local l commands
+[08:26:25] + LOADED local v commands
+[08:26:25] + LOADED local q commands
+[08:26:25] + LOADED local s commands
+[08:26:25] + LOADED info module
+[08:26:25] + LOADED stats module
+[08:26:25] **********************************
+[08:26:25] *a&a light loaded successfully :)*
+[08:26:25] **********************************
+[08:26:25] Writing channel file...
+[08:26:25] Userfile loaded, unpacking...
+[08:27:05] -Anti Advertise Script- ArNz|8o8 (ArNz|8o8) with +f flags said telfort on #zoetermeer
+[08:27:38] Last message repeated 1 time(s).
+[08:27:38] -Anti Advertise Script- KICKED ArNz|w0rk on #zoetermeer matched by telfort
+[08:29:45] Last message repeated 1 time(s).
+[08:29:45] #ArNz|8o8# rehash
+[08:29:45] Writing user file...
+[08:29:45] Writing channel file...
+[08:29:45] Writing info file ...
+[08:29:45] Rehashing ...
+[08:29:45] Writing channel file...
+[08:29:45] Listening at telnet port 50542 (all).
+[08:29:45] bseen1.4.2c:  -- Bass's SEEN loaded --
+[08:29:45] bMotion 0.1.0+svn starting up...
+[08:29:45] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[08:29:47] loaded fact module
+[08:29:47] bMotion: new installation, need to send stats/check version...
+[08:29:47] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[08:29:47]          this is not required, but is strongly recommended
+[08:29:47] bMotion 0.1.0+svn AI online :D
+[08:29:47] Wordkick 2 - Anti Advertise Script 1.0 (release) by ArNz|8o8 Loaded
+[08:29:47] **********************************
+[08:29:47] *loading a&a light eggdrop script*
+[08:29:47] **********************************
+[08:29:47] + LOADED core
+[08:29:47] + LOADED binds
+[08:29:47] + LOADED xservice module
+[08:29:47] + LOADED 
+[08:29:47] + LOADED en dictionary
+[08:29:47] + LOADED ro dictionary
+[08:29:47] + LOADED owner commands
+[08:29:47] + LOADED global N commands
+[08:29:47] Last message repeated 1 time(s).
+[08:29:47] + LOADED global m commands
+[08:29:47] + LOADED global o commands
+[08:29:47] + LOADED global l commands
+[08:29:47] + LOADED global v commands
+[08:29:47] + LOADED global s commands
+[08:29:47] + LOADED global Q commands
+[08:29:47] + LOADED local N commands
+[08:29:47] + LOADED local X commands
+[08:29:47] + LOADED local n commands
+[08:29:47] + LOADED local m commands
+[08:29:47] + LOADED local o commands
+[08:29:47] + LOADED local l commands
+[08:29:47] + LOADED local v commands
+[08:29:47] + LOADED local q commands
+[08:29:47] + LOADED local s commands
+[08:29:47] + LOADED info module
+[08:29:47] + LOADED stats module
+[08:29:47] **********************************
+[08:29:47] *a&a light loaded successfully :)*
+[08:29:47] **********************************
+[08:29:47] Writing channel file...
+[08:29:47] Userfile loaded, unpacking...
+[08:30:00] No longer banning *!~8o8@145.52.210.247 on #zoetermeer (expired)
+[08:30:00] bMotion: running level 4 self-diagnostic
+[08:30:19] -Anti Advertise Script- ArNz|w0rk (ArNz|w0rk) with +g flags said telfort on #zoetermeer
+[08:30:31] Last message repeated 1 time(s).
+[08:30:31] -Anti Advertise Script- KICKED choepa on #zoetermeer matched by telfort
+[08:33:00] Last message repeated 1 time(s).
+[08:33:00] No longer banning *!9134d2f7@m-c.clients.kiwiirc.com on #zoetermeer (expired)
+[08:34:10] #ArNz|8o8# rehash
+[08:34:10] Writing user file...
+[08:34:10] Writing channel file...
+[08:34:10] Writing info file ...
+[08:34:10] Rehashing ...
+[08:34:10] Writing channel file...
+[08:34:10] Listening at telnet port 50542 (all).
+[08:34:10] bseen1.4.2c:  -- Bass's SEEN loaded --
+[08:34:10] bMotion 0.1.0+svn starting up...
+[08:34:10] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[08:34:11] loaded fact module
+[08:34:11] bMotion: new installation, need to send stats/check version...
+[08:34:11] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[08:34:11]          this is not required, but is strongly recommended
+[08:34:11] bMotion 0.1.0+svn AI online :D
+[08:34:11] Wordkick - 1.1 release version by ArNz|8o8
+[08:34:11] **********************************
+[08:34:11] *loading a&a light eggdrop script*
+[08:34:11] **********************************
+[08:34:11] + LOADED core
+[08:34:11] + LOADED binds
+[08:34:11] + LOADED xservice module
+[08:34:11] + LOADED 
+[08:34:11] + LOADED en dictionary
+[08:34:11] + LOADED ro dictionary
+[08:34:11] + LOADED owner commands
+[08:34:11] + LOADED global N commands
+[08:34:11] Last message repeated 1 time(s).
+[08:34:11] + LOADED global m commands
+[08:34:11] + LOADED global o commands
+[08:34:11] + LOADED global l commands
+[08:34:11] + LOADED global v commands
+[08:34:11] + LOADED global s commands
+[08:34:11] + LOADED global Q commands
+[08:34:11] + LOADED local N commands
+[08:34:11] + LOADED local X commands
+[08:34:11] + LOADED local n commands
+[08:34:11] + LOADED local m commands
+[08:34:11] + LOADED local o commands
+[08:34:11] + LOADED local l commands
+[08:34:11] + LOADED local v commands
+[08:34:11] + LOADED local q commands
+[08:34:11] + LOADED local s commands
+[08:34:11] + LOADED info module
+[08:34:11] + LOADED stats module
+[08:34:11] **********************************
+[08:34:11] *a&a light loaded successfully :)*
+[08:34:11] **********************************
+[08:34:11] Writing channel file...
+[08:34:11] Userfile loaded, unpacking...
+[08:35:00] Trimming brain...
+[08:35:00] Brain trimmed
+[08:35:00] Saving brain...
+[08:36:12] -Anti Advertise Script- ArNz|w0rk (ArNz|w0rk) with +g flags said telfort on #zoetermeer
+[08:36:27] Last message repeated 1 time(s).
+[08:36:27] #ArNz|8o8# restart
+[08:36:27] Writing user file...
+[08:36:27] Writing channel file...
+[08:36:27] Writing info file ...
+[08:36:27] Restarting ...
+[08:36:28] Module unloaded: megahal
+[08:36:28] Module unloaded: assoc
+[08:36:28] Module unloaded: console
+[08:36:28] Module unloaded: notes
+[08:36:28] Module unloaded: compress
+[08:36:28] Sending 'share end' to all sharebots...
+[08:36:28] Unloaded sharing module, flushing tbuf's...
+[08:36:28] Module unloaded: share
+[08:36:28] Unloading transfer module, killing all transfer connections...
+[08:36:28] Module unloaded: transfer
+[08:36:28] Module unloaded: irc
+[08:36:28] Module unloaded: ctcp
+[08:36:28] Module unloaded: server
+[08:36:28] Writing channel file...
+[08:36:28] Module unloaded: channels
+[08:36:28] Module unloaded: dns
+[08:36:28] Listening at telnet port 50542 (all).
+[08:36:28] Module loaded: dns             
+[08:36:28] No longer supporting channel #Holland
+[08:36:28] No longer supporting channel #zoetermeer
+[08:36:28] Module loaded: channels        
+[08:36:28] Module loaded: server          
+[08:36:28] Module loaded: ctcp            
+[08:36:28] Module loaded: irc             
+[08:36:28] Module loaded: transfer         (with lang support)
+[08:36:28] Module loaded: share           
+[08:36:28] Module loaded: compress        
+[08:36:28] Module loaded: notes            (with lang support)
+[08:36:28] Module loaded: console          (with lang support)
+[08:36:28] Module loaded: assoc            (with lang support)
+[08:36:28] MegaHAL v3.5 by ^Baron^ loaded.
+[08:36:28] Module loaded: megahal         
+[08:36:28] bseen1.4.2c:  -- Bass's SEEN loaded --
+[08:36:28]      Loading seen database...
+[08:36:28]      Done loading 87 seen records.
+[08:36:28] bMotion 0.1.0+svn starting up...
+[08:36:28] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[08:36:29] loaded fact module
+[08:36:29] bMotion: new installation, need to send stats/check version...
+[08:36:29] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[08:36:29]          this is not required, but is strongly recommended
+[08:36:29] bMotion 0.1.0+svn AI online :D
+[08:36:29] Wordkick - 1.1 release version by ArNz|8o8
+[08:36:29] **********************************
+[08:36:29] *loading a&a light eggdrop script*
+[08:36:29] **********************************
+[08:36:29] + LOADED core
+[08:36:29] + LOADED binds
+[08:36:29] + LOADED xservice module
+[08:36:29] + LOADED 
+[08:36:29] + LOADED en dictionary
+[08:36:29] + LOADED ro dictionary
+[08:36:29] + LOADED owner commands
+[08:36:29] + LOADED global N commands
+[08:36:29] Last message repeated 1 time(s).
+[08:36:29] + LOADED global m commands
+[08:36:29] + LOADED global o commands
+[08:36:29] + LOADED global l commands
+[08:36:29] + LOADED global v commands
+[08:36:29] + LOADED global s commands
+[08:36:29] + LOADED global Q commands
+[08:36:29] + LOADED local N commands
+[08:36:29] + LOADED local X commands
+[08:36:29] + LOADED local n commands
+[08:36:29] + LOADED local m commands
+[08:36:29] + LOADED local o commands
+[08:36:29] + LOADED local l commands
+[08:36:29] + LOADED local v commands
+[08:36:29] + LOADED local q commands
+[08:36:29] + LOADED local s commands
+[08:36:29] + LOADED info module
+[08:36:29] + LOADED stats module
+[08:36:29] **********************************
+[08:36:29] *a&a light loaded successfully :)*
+[08:36:29] **********************************
+[08:36:29] Writing channel file...
+[08:36:29] Userfile loaded, unpacking...
+[08:36:29] Trying server [amsterdam.nl.eu.undernet.org]:6667
+[08:36:29] Connected to amsterdam.nl.eu.undernet.org
+[08:36:29] -NOTICE- *** Looking up your hostname
+[08:36:30] -NOTICE- *** Checking Ident
+[08:36:30] -NOTICE- *** Found your hostname
+[08:36:32] -NOTICE- *** Got ident response
+[08:36:32] <<frisheid>> BIND ROUTINE -- fr3Sh
+[08:36:32] -NOTICE- on 2 ca 1(4) ft 10(10) tr
+[08:36:35] fr3Sh joined #Holland.
+[08:36:43] fr3Sh joined #zoetermeer.
+[08:37:26] fr3Sh joined #Holland.
+[08:37:48] Banned choepa@#zoetermeer for using telfort.
+[08:43:00] No longer banning *!9134d2f7@*.kiwiirc.com on #zoetermeer (expired)
+[08:45:57] #ArNz|8o8# match *\
+[08:46:00] *** Call to driftmood
+[08:46:04] #ArNz|8o8# match *
+[08:48:34] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland AUTH as ArNz|8o8 succeeded
+[08:48:40] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer CHANSET -autovoice 
+[08:48:48] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer CHANSET -voice 
+[08:48:53] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer CHANSET +voice 
+[08:48:58] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer CHANINFO ...
+[08:49:13] Banned choepa@#zoetermeer for using telfort.
+[08:50:36] #ArNz|8o8# chaninfo #Holland
+[08:55:00] No longer banning *!9134d2f7@*.kiwiirc.com on #zoetermeer (expired)
+[08:58:30] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer BOTSTATUS ...
+[08:59:13] #ArNz|8o8# whois arnz|w0rk
+[09:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[09:00:00] Writing user file...
+[09:00:00] Writing channel file...
+[09:00:00] Writing info file ...
+[09:00:27] Telnet connection: 145.52.92.161/49660
+[09:00:27] Timeout/EOF ident connection
+[09:00:33] Logged in: ArNz|8o8 (telnet@145.52.92.161/49660)
+[09:01:00] bMotion: autosaving facts...
+[09:12:00] Backing up seen data...
+[09:19:34] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland WHOIS _^-^_
+[09:30:00] bMotion: running level 4 self-diagnostic
+[09:34:01] #ArNz|8o8# rehash
+[09:34:01] Writing user file...
+[09:34:01] Writing channel file...
+[09:34:01] Writing info file ...
+[09:34:01] Rehashing ...
+[09:34:01] Writing channel file...
+[09:34:01] Listening at telnet port 50542 (all).
+[09:34:01] bseen1.4.2c:  -- Bass's SEEN loaded --
+[09:34:01] bMotion 0.1.0+svn starting up...
+[09:34:01] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[09:34:02] loaded fact module
+[09:34:02] bMotion: new installation, need to send stats/check version...
+[09:34:02] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[09:34:02]          this is not required, but is strongly recommended
+[09:34:02] bMotion 0.1.0+svn AI online :D
+[09:34:02] Wordkick - 1.1 release version by ArNz|8o8
+[09:34:02] **********************************
+[09:34:02] *loading a&a light eggdrop script*
+[09:34:02] **********************************
+[09:34:02] + LOADED core
+[09:34:02] + LOADED binds
+[09:34:02] + LOADED xservice module
+[09:34:02] + LOADED 
+[09:34:02] + LOADED en dictionary
+[09:34:02] + LOADED ro dictionary
+[09:34:02] + LOADED owner commands
+[09:34:02] + LOADED global N commands
+[09:34:02] Last message repeated 1 time(s).
+[09:34:02] + LOADED global m commands
+[09:34:02] + LOADED global o commands
+[09:34:02] + LOADED global l commands
+[09:34:02] + LOADED global v commands
+[09:34:02] + LOADED global s commands
+[09:34:02] + LOADED global Q commands
+[09:34:02] + LOADED local N commands
+[09:34:02] + LOADED local X commands
+[09:34:02] + LOADED local n commands
+[09:34:02] + LOADED local m commands
+[09:34:02] + LOADED local o commands
+[09:34:02] + LOADED local l commands
+[09:34:02] + LOADED local v commands
+[09:34:02] + LOADED local q commands
+[09:34:02] + LOADED local s commands
+[09:34:02] + LOADED info module
+[09:34:02] + LOADED stats module
+[09:34:02] **********************************
+[09:34:02] *a&a light loaded successfully :)*
+[09:34:02] **********************************
+[09:34:02] Writing channel file...
+[09:34:02] Userfile loaded, unpacking...
+[09:34:39] Banned choepa@#zoetermeer for using kanker.
+[09:35:00] Trimming brain...
+[09:35:00] Brain trimmed
+[09:35:00] Saving brain...
+[09:35:42] #ArNz|8o8# rehash
+[09:35:42] Writing user file...
+[09:35:42] Writing channel file...
+[09:35:42] Writing info file ...
+[09:35:42] Rehashing ...
+[09:35:42] Writing channel file...
+[09:35:42] Listening at telnet port 50542 (all).
+[09:35:42] bseen1.4.2c:  -- Bass's SEEN loaded --
+[09:35:42] bMotion 0.1.0+svn starting up...
+[09:35:42] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[09:35:44] loaded fact module
+[09:35:44] bMotion: new installation, need to send stats/check version...
+[09:35:44] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[09:35:44]          this is not required, but is strongly recommended
+[09:35:44] bMotion 0.1.0+svn AI online :D
+[09:35:44] Wordkick - 1.1a release version by ArNz|8o8
+[09:35:44] **********************************
+[09:35:44] *loading a&a light eggdrop script*
+[09:35:44] **********************************
+[09:35:44] + LOADED core
+[09:35:44] + LOADED binds
+[09:35:44] + LOADED xservice module
+[09:35:44] + LOADED 
+[09:35:44] + LOADED en dictionary
+[09:35:44] + LOADED ro dictionary
+[09:35:44] + LOADED owner commands
+[09:35:44] + LOADED global N commands
+[09:35:44] Last message repeated 1 time(s).
+[09:35:44] + LOADED global m commands
+[09:35:44] + LOADED global o commands
+[09:35:44] + LOADED global l commands
+[09:35:44] + LOADED global v commands
+[09:35:44] + LOADED global s commands
+[09:35:44] + LOADED global Q commands
+[09:35:44] + LOADED local N commands
+[09:35:44] + LOADED local X commands
+[09:35:44] + LOADED local n commands
+[09:35:44] + LOADED local m commands
+[09:35:44] + LOADED local o commands
+[09:35:44] + LOADED local l commands
+[09:35:44] + LOADED local v commands
+[09:35:44] + LOADED local q commands
+[09:35:44] + LOADED local s commands
+[09:35:44] + LOADED info module
+[09:35:44] + LOADED stats module
+[09:35:44] **********************************
+[09:35:44] *a&a light loaded successfully :)*
+[09:35:44] **********************************
+[09:35:44] Writing channel file...
+[09:35:44] Userfile loaded, unpacking...
+[09:40:00] No longer banning *!9134d2f7@*.kiwiirc.com on #zoetermeer (expired)
+[09:41:29] Banned choepa@#zoetermeer for using kanker.
+[09:42:49] #ArNz|8o8# rehash
+[09:42:49] Writing user file...
+[09:42:49] Writing channel file...
+[09:42:49] Writing info file ...
+[09:42:49] Rehashing ...
+[09:42:49] Writing channel file...
+[09:42:49] Listening at telnet port 50542 (all).
+[09:42:49] bseen1.4.2c:  -- Bass's SEEN loaded --
+[09:42:49] bMotion 0.1.0+svn starting up...
+[09:42:49] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[09:42:50] loaded fact module
+[09:42:50] bMotion: new installation, need to send stats/check version...
+[09:42:50] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[09:42:50]          this is not required, but is strongly recommended
+[09:42:50] bMotion 0.1.0+svn AI online :D
+[09:42:50] Wordkick - 1.1a release version by ArNz|8o8
+[09:42:50] **********************************
+[09:42:50] *loading a&a light eggdrop script*
+[09:42:50] **********************************
+[09:42:50] + LOADED core
+[09:42:50] + LOADED binds
+[09:42:50] + LOADED xservice module
+[09:42:50] + LOADED 
+[09:42:50] + LOADED en dictionary
+[09:42:50] + LOADED ro dictionary
+[09:42:50] + LOADED owner commands
+[09:42:50] + LOADED global N commands
+[09:42:50] Last message repeated 1 time(s).
+[09:42:50] + LOADED global m commands
+[09:42:50] + LOADED global o commands
+[09:42:50] + LOADED global l commands
+[09:42:50] + LOADED global v commands
+[09:42:50] + LOADED global s commands
+[09:42:50] + LOADED global Q commands
+[09:42:50] + LOADED local N commands
+[09:42:50] + LOADED local X commands
+[09:42:50] + LOADED local n commands
+[09:42:50] + LOADED local m commands
+[09:42:50] + LOADED local o commands
+[09:42:50] + LOADED local l commands
+[09:42:50] + LOADED local v commands
+[09:42:50] + LOADED local q commands
+[09:42:50] + LOADED local s commands
+[09:42:50] + LOADED info module
+[09:42:50] + LOADED stats module
+[09:42:50] **********************************
+[09:42:50] *a&a light loaded successfully :)*
+[09:42:50] **********************************
+[09:42:50] Writing channel file...
+[09:42:50] Userfile loaded, unpacking...
+[09:43:08] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland AUTH as ArNz|8o8 succeeded
+[09:43:20] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer UNBAN *!9134d2f7@*.kiwiirc.com, 1 BotBAN & 1 ChanBAN
+[09:43:36] Banned choepa@#zoetermeer for using telfort.
+[09:43:50] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer UNBAN *!9134d2f7@*.kiwiirc.com, 1 BotBAN & 1 ChanBAN
+[09:44:00] Banned choepa@#zoetermeer for using kankerzooi.
+[09:44:13] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer UNBAN *!9134d2f7@*.kiwiirc.com, 1 BotBAN & 1 ChanBAN
+[09:44:43] #ArNz|8o8# rehash
+[09:44:43] Writing user file...
+[09:44:43] Writing channel file...
+[09:44:43] Writing info file ...
+[09:44:43] Rehashing ...
+[09:44:43] Writing channel file...
+[09:44:43] Listening at telnet port 50542 (all).
+[09:44:43] bseen1.4.2c:  -- Bass's SEEN loaded --
+[09:44:43] bMotion 0.1.0+svn starting up...
+[09:44:43] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[09:44:44] loaded fact module
+[09:44:44] bMotion: new installation, need to send stats/check version...
+[09:44:44] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[09:44:44]          this is not required, but is strongly recommended
+[09:44:44] bMotion 0.1.0+svn AI online :D
+[09:44:44] Wordkick - 1.1a release version by ArNz|8o8
+[09:44:44] **********************************
+[09:44:44] *loading a&a light eggdrop script*
+[09:44:44] **********************************
+[09:44:44] + LOADED core
+[09:44:44] + LOADED binds
+[09:44:44] + LOADED xservice module
+[09:44:44] + LOADED 
+[09:44:44] + LOADED en dictionary
+[09:44:44] + LOADED ro dictionary
+[09:44:44] + LOADED owner commands
+[09:44:44] + LOADED global N commands
+[09:44:44] Last message repeated 1 time(s).
+[09:44:44] + LOADED global m commands
+[09:44:44] + LOADED global o commands
+[09:44:44] + LOADED global l commands
+[09:44:44] + LOADED global v commands
+[09:44:44] + LOADED global s commands
+[09:44:44] + LOADED global Q commands
+[09:44:44] + LOADED local N commands
+[09:44:44] + LOADED local X commands
+[09:44:44] + LOADED local n commands
+[09:44:44] + LOADED local m commands
+[09:44:44] + LOADED local o commands
+[09:44:44] + LOADED local l commands
+[09:44:44] + LOADED local v commands
+[09:44:45] + LOADED local q commands
+[09:44:45] + LOADED local s commands
+[09:44:45] + LOADED info module
+[09:44:45] + LOADED stats module
+[09:44:45] **********************************
+[09:44:45] *a&a light loaded successfully :)*
+[09:44:45] **********************************
+[09:44:45] Writing channel file...
+[09:44:45] Userfile loaded, unpacking...
+[09:47:12] #ArNz|8o8# rehash
+[09:47:12] Writing user file...
+[09:47:12] Writing channel file...
+[09:47:12] Writing info file ...
+[09:47:12] Rehashing ...
+[09:47:12] Writing channel file...
+[09:47:12] Listening at telnet port 50542 (all).
+[09:47:12] bseen1.4.2c:  -- Bass's SEEN loaded --
+[09:47:12] bMotion 0.1.0+svn starting up...
+[09:47:12] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[09:47:13] loaded fact module
+[09:47:13] bMotion: new installation, need to send stats/check version...
+[09:47:13] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[09:47:13]          this is not required, but is strongly recommended
+[09:47:13] bMotion 0.1.0+svn AI online :D
+[09:47:13] Verkeerd woord script 1.0a release by ArNz|8o8 loaded
+[09:47:13] **********************************
+[09:47:13] *loading a&a light eggdrop script*
+[09:47:13] **********************************
+[09:47:13] + LOADED core
+[09:47:13] + LOADED binds
+[09:47:13] + LOADED xservice module
+[09:47:13] + LOADED 
+[09:47:13] + LOADED en dictionary
+[09:47:13] + LOADED ro dictionary
+[09:47:13] + LOADED owner commands
+[09:47:13] + LOADED global N commands
+[09:47:13] Last message repeated 1 time(s).
+[09:47:13] + LOADED global m commands
+[09:47:13] + LOADED global o commands
+[09:47:13] + LOADED global l commands
+[09:47:13] + LOADED global v commands
+[09:47:13] + LOADED global s commands
+[09:47:13] + LOADED global Q commands
+[09:47:13] + LOADED local N commands
+[09:47:13] + LOADED local X commands
+[09:47:13] + LOADED local n commands
+[09:47:13] + LOADED local m commands
+[09:47:13] + LOADED local o commands
+[09:47:13] + LOADED local l commands
+[09:47:13] + LOADED local v commands
+[09:47:13] + LOADED local q commands
+[09:47:13] + LOADED local s commands
+[09:47:13] + LOADED info module
+[09:47:13] + LOADED stats module
+[09:47:13] **********************************
+[09:47:13] *a&a light loaded successfully :)*
+[09:47:13] **********************************
+[09:47:13] Writing channel file...
+[09:47:13] Userfile loaded, unpacking...
+[09:47:23] -Verkeerd woord- KICKED choepa on #zoetermeer matched by {krijg de telfort}
+[09:50:00] No longer banning *!9134d2f7@m-c.clients.kiwiirc.com on #zoetermeer (expired)
+[09:50:21] #ArNz|8o8# rehash
+[09:50:21] Writing user file...
+[09:50:21] Writing channel file...
+[09:50:21] Writing info file ...
+[09:50:21] Rehashing ...
+[09:50:21] Writing channel file...
+[09:50:21] Listening at telnet port 50542 (all).
+[09:50:21] bseen1.4.2c:  -- Bass's SEEN loaded --
+[09:50:21] bMotion 0.1.0+svn starting up...
+[09:50:21] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[09:50:23] loaded fact module
+[09:50:23] bMotion: new installation, need to send stats/check version...
+[09:50:23] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[09:50:23]          this is not required, but is strongly recommended
+[09:50:23] bMotion 0.1.0+svn AI online :D
+[09:50:23] Verkeerd woord script 1.0a release by ArNz|8o8 loaded
+[09:50:23] **********************************
+[09:50:23] *loading a&a light eggdrop script*
+[09:50:23] **********************************
+[09:50:23] + LOADED core
+[09:50:23] + LOADED binds
+[09:50:23] + LOADED xservice module
+[09:50:23] + LOADED 
+[09:50:23] + LOADED en dictionary
+[09:50:23] + LOADED ro dictionary
+[09:50:23] + LOADED owner commands
+[09:50:23] + LOADED global N commands
+[09:50:23] Last message repeated 1 time(s).
+[09:50:23] + LOADED global m commands
+[09:50:23] + LOADED global o commands
+[09:50:23] + LOADED global l commands
+[09:50:23] + LOADED global v commands
+[09:50:23] + LOADED global s commands
+[09:50:23] + LOADED global Q commands
+[09:50:23] + LOADED local N commands
+[09:50:23] + LOADED local X commands
+[09:50:23] + LOADED local n commands
+[09:50:23] + LOADED local m commands
+[09:50:23] + LOADED local o commands
+[09:50:23] + LOADED local l commands
+[09:50:23] + LOADED local v commands
+[09:50:23] + LOADED local q commands
+[09:50:23] + LOADED local s commands
+[09:50:23] + LOADED info module
+[09:50:23] + LOADED stats module
+[09:50:23] **********************************
+[09:50:23] *a&a light loaded successfully :)*
+[09:50:23] **********************************
+[09:50:23] Writing channel file...
+[09:50:23] Userfile loaded, unpacking...
+[09:50:30] -Verkeerd woord- ArNz|w0rk (ArNz|w0rk) with +g flags said {krijg de telfort} on #zoetermeer
+[09:50:48] -Verkeerd woord- KICKED choepa on #zoetermeer matched by {krijg de kanker}
+[09:52:06] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flags said {!forget kanker} on #zoetermeer
+[09:52:14] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flags said {.forget kanker} on #zoetermeer
+[09:52:14] forget  kanker  by ArNz|8o8
+[09:53:00] No longer banning *!9134d2f7@m-c.clients.kiwiirc.com on #zoetermeer (expired)
+[09:53:19] -Verkeerd woord- KICKED choepa on #zoetermeer matched by {krijg de telfort}
+[09:54:28] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #zoetermeer UNBAN *!9134d2f7@m-c.clients.kiwiirc.com, 1 BotBAN & 1 ChanBAN
+[09:54:37] #ArNz|8o8# rehash
+[09:54:37] Writing user file...
+[09:54:37] Writing channel file...
+[09:54:37] Writing info file ...
+[09:54:37] Rehashing ...
+[09:54:37] Writing channel file...
+[09:54:37] Listening at telnet port 50542 (all).
+[09:54:37] bseen1.4.2c:  -- Bass's SEEN loaded --
+[09:54:37] bMotion 0.1.0+svn starting up...
+[09:54:37] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[09:54:38] loaded fact module
+[09:54:38] bMotion: new installation, need to send stats/check version...
+[09:54:38] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[09:54:38]          this is not required, but is strongly recommended
+[09:54:38] bMotion 0.1.0+svn AI online :D
+[09:54:38] Verkeerd woord script 1.0a release by ArNz|8o8 loaded
+[09:54:38] **********************************
+[09:54:38] *loading a&a light eggdrop script*
+[09:54:38] **********************************
+[09:54:38] + LOADED core
+[09:54:38] + LOADED binds
+[09:54:38] + LOADED xservice module
+[09:54:38] + LOADED 
+[09:54:38] + LOADED en dictionary
+[09:54:38] + LOADED ro dictionary
+[09:54:38] + LOADED owner commands
+[09:54:38] + LOADED global N commands
+[09:54:38] Last message repeated 1 time(s).
+[09:54:38] + LOADED global m commands
+[09:54:38] + LOADED global o commands
+[09:54:38] + LOADED global l commands
+[09:54:38] + LOADED global v commands
+[09:54:38] + LOADED global s commands
+[09:54:38] + LOADED global Q commands
+[09:54:38] + LOADED local N commands
+[09:54:38] + LOADED local X commands
+[09:54:38] + LOADED local n commands
+[09:54:38] + LOADED local m commands
+[09:54:38] + LOADED local o commands
+[09:54:38] + LOADED local l commands
+[09:54:38] + LOADED local v commands
+[09:54:38] + LOADED local q commands
+[09:54:38] + LOADED local s commands
+[09:54:38] + LOADED info module
+[09:54:38] + LOADED stats module
+[09:54:38] **********************************
+[09:54:38] *a&a light loaded successfully :)*
+[09:54:38] **********************************
+[09:54:38] Writing channel file...
+[09:54:38] Userfile loaded, unpacking...
+[09:54:47] -Verkeerd woord- KICKED choepa on #zoetermeer matched by {krijg de telfort}
+[09:57:00] No longer banning *!9134d2f7@m-c.clients.kiwiirc.com on #zoetermeer (expired)
+[10:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[10:00:00] Writing user file...
+[10:00:00] Writing channel file...
+[10:00:00] Writing info file ...
+[10:01:00] bMotion: autosaving facts...
+[10:05:08] -Verkeerd woord- ArNz|w0rk (ArNz|w0rk) with +g flags said {krijg de telfort} on #zoetermeer
+[10:06:05] #ArNz|8o8# rehash
+[10:06:05] Writing user file...
+[10:06:05] Writing channel file...
+[10:06:05] Writing info file ...
+[10:06:05] Rehashing ...
+[10:06:05] Writing channel file...
+[10:06:05] Listening at telnet port 50542 (all).
+[10:06:05] bseen1.4.2c:  -- Bass's SEEN loaded --
+[10:06:05] bMotion 0.1.0+svn starting up...
+[10:06:05] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[10:06:06] loaded fact module
+[10:06:06] bMotion: new installation, need to send stats/check version...
+[10:06:06] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[10:06:06]          this is not required, but is strongly recommended
+[10:06:06] bMotion 0.1.0+svn AI online :D
+[10:06:06] Verkeerd woord script 1.0a release by ArNz|8o8 loaded
+[10:06:06] **********************************
+[10:06:06] *loading a&a light eggdrop script*
+[10:06:06] **********************************
+[10:06:06] + LOADED core
+[10:06:06] + LOADED binds
+[10:06:06] + LOADED xservice module
+[10:06:06] + LOADED 
+[10:06:06] + LOADED en dictionary
+[10:06:06] + LOADED ro dictionary
+[10:06:06] + LOADED owner commands
+[10:06:06] + LOADED global N commands
+[10:06:06] Last message repeated 1 time(s).
+[10:06:06] + LOADED global m commands
+[10:06:06] + LOADED global o commands
+[10:06:06] + LOADED global l commands
+[10:06:06] + LOADED global v commands
+[10:06:06] + LOADED global s commands
+[10:06:06] + LOADED global Q commands
+[10:06:06] + LOADED local N commands
+[10:06:06] + LOADED local X commands
+[10:06:06] + LOADED local n commands
+[10:06:06] + LOADED local m commands
+[10:06:06] + LOADED local o commands
+[10:06:06] + LOADED local l commands
+[10:06:06] + LOADED local v commands
+[10:06:06] + LOADED local q commands
+[10:06:06] + LOADED local s commands
+[10:06:06] + LOADED info module
+[10:06:06] + LOADED stats module
+[10:06:06] **********************************
+[10:06:06] *a&a light loaded successfully :)*
+[10:06:06] **********************************
+[10:06:06] Writing channel file...
+[10:06:06] Userfile loaded, unpacking...
+[10:06:23] -Verkeerd woord- ArNz|w0rk (ArNz|w0rk) with +g flag said {krijg de telfort} on #zoetermeer
+[10:10:15] #ArNz|8o8# rehash
+[10:10:15] Writing user file...
+[10:10:15] Writing channel file...
+[10:10:15] Writing info file ...
+[10:10:15] Rehashing ...
+[10:10:15] Writing channel file...
+[10:10:15] Listening at telnet port 50542 (all).
+[10:10:15] bseen1.4.2c:  -- Bass's SEEN loaded --
+[10:10:15] bMotion 0.1.0+svn starting up...
+[10:10:15] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[10:10:16] loaded fact module
+[10:10:16] bMotion: new installation, need to send stats/check version...
+[10:10:16] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[10:10:16]          this is not required, but is strongly recommended
+[10:10:16] bMotion 0.1.0+svn AI online :D
+[10:10:16] Verkeerd woord script 1.0a release by ArNz|8o8 loaded
+[10:10:16] **********************************
+[10:10:16] *loading a&a light eggdrop script*
+[10:10:16] **********************************
+[10:10:16] + LOADED core
+[10:10:16] + LOADED binds
+[10:10:16] + LOADED xservice module
+[10:10:16] + LOADED 
+[10:10:16] + LOADED en dictionary
+[10:10:16] + LOADED ro dictionary
+[10:10:16] + LOADED owner commands
+[10:10:16] + LOADED global N commands
+[10:10:16] Last message repeated 1 time(s).
+[10:10:16] + LOADED global m commands
+[10:10:16] + LOADED global o commands
+[10:10:16] + LOADED global l commands
+[10:10:16] + LOADED global v commands
+[10:10:16] + LOADED global s commands
+[10:10:16] + LOADED global Q commands
+[10:10:16] + LOADED local N commands
+[10:10:16] + LOADED local X commands
+[10:10:16] + LOADED local n commands
+[10:10:16] + LOADED local m commands
+[10:10:16] + LOADED local o commands
+[10:10:16] + LOADED local l commands
+[10:10:16] + LOADED local v commands
+[10:10:16] + LOADED local q commands
+[10:10:16] + LOADED local s commands
+[10:10:16] + LOADED info module
+[10:10:16] + LOADED stats module
+[10:10:16] **********************************
+[10:10:16] *a&a light loaded successfully :)*
+[10:10:16] **********************************
+[10:10:16] Writing channel file...
+[10:10:16] Userfile loaded, unpacking...
+[10:10:19] -Verkeerd woord- ArNz|w0rk (ArNz|w0rk) with +g flag said {krijg de telfort} on #zoetermeer
+[10:10:31] -Verkeerd woord- KICKED choepa on #zoetermeer matched by {krijg de telfort}
+[10:12:00] Backing up seen data...
+[10:13:00] No longer banning *!9134d2f7@m-c.clients.kiwiirc.com on #zoetermeer (expired)
+[10:30:00] bMotion: running level 4 self-diagnostic
+[10:35:00] Trimming brain...
+[10:35:00] Brain trimmed
+[10:35:00] Saving brain...
+[11:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[11:00:00] Writing user file...
+[11:00:00] Writing channel file...
+[11:00:00] Writing info file ...
+[11:01:00] bMotion: autosaving facts...
+[11:12:00] Backing up seen data...
+[11:28:45] Lost dcc connection to ArNz|8o8 (telnet@145.52.92.161/49660)
+[11:30:00] bMotion: running level 4 self-diagnostic
+[11:35:00] Trimming brain...
+[11:35:00] Brain trimmed
+[11:35:00] Saving brain...
+[12:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[12:00:00] Writing user file...
+[12:00:00] Writing channel file...
+[12:00:00] Writing info file ...
+[12:01:00] bMotion: autosaving facts...
+[12:12:00] Backing up seen data...
+[12:14:30] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland AUTH as ArNz|8o8 succeeded
+[12:30:00] bMotion: running level 4 self-diagnostic
+[12:35:00] Trimming brain...
+[12:35:00] Brain trimmed
+[12:35:00] Saving brain...
+[13:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[13:00:00] Writing user file...
+[13:00:00] Writing channel file...
+[13:00:00] Writing info file ...
+[13:01:00] bMotion: autosaving facts...
+[13:12:00] Backing up seen data...
+[13:30:00] bMotion: running level 4 self-diagnostic
+[13:35:00] Trimming brain...
+[13:35:00] Brain trimmed
+[13:35:00] Saving brain...
+[14:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[14:00:00] Writing user file...
+[14:00:00] Writing channel file...
+[14:00:00] Writing info file ...
+[14:01:00] bMotion: autosaving facts...
+[14:12:00] Backing up seen data...
+[14:30:00] bMotion: running level 4 self-diagnostic
+[14:35:00] Trimming brain...
+[14:35:00] Brain trimmed
+[14:35:00] Saving brain...
+[15:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[15:00:00] Writing user file...
+[15:00:00] Writing channel file...
+[15:00:00] Writing info file ...
+[15:01:00] bMotion: autosaving facts...
+[15:12:00] Backing up seen data...
+[15:30:00] bMotion: running level 4 self-diagnostic
+[15:35:00] Trimming brain...
+[15:35:00] Brain trimmed
+[15:35:00] Saving brain...
+[16:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[16:00:00] Writing user file...
+[16:00:00] Writing channel file...
+[16:00:00] Writing info file ...
+[16:01:00] bMotion: autosaving facts...
+[16:12:00] Backing up seen data...
+[16:30:00] bMotion: running level 4 self-diagnostic
+[16:35:00] Trimming brain...
+[16:35:00] Brain trimmed
+[16:35:00] Saving brain...
+[17:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[17:00:00] Writing user file...
+[17:00:00] Writing channel file...
+[17:00:00] Writing info file ...
+[17:01:00] bMotion: autosaving facts...
+[17:12:00] Backing up seen data...
+[17:30:00] bMotion: running level 4 self-diagnostic
+[17:35:00] Trimming brain...
+[17:35:00] Brain trimmed
+[17:35:00] Saving brain...
+[17:39:33] -Verkeerd woord- KICKED campo on #Holland matched by {Telfort is best}
+[17:42:00] No longer banning *!~androirc@77-172-164-189.ip.telfort.nl on #Holland (expired)
+[17:59:45] -Verkeerd woord- KICKED campo on #Holland matched by telfort!!!!!!!!!!!!!
+[17:59:45] Banned campo@#Holland for using telfort!!!!!!!!!!!!!.
+[17:59:47] -Verkeerd woord- KICKED Wheatley- on #Holland matched by {Telfort is the best coast.}
+[18:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[18:00:00] Writing user file...
+[18:00:00] Writing channel file...
+[18:00:00] Writing info file ...
+[18:01:00] bMotion: autosaving facts...
+[18:02:00] No longer banning *!~Wheatley@Wheatley.users.undernet.org on #Holland (expired)
+[18:02:00] No longer banning *!~campo@77-172-164-189.ip.telfort.nl on #Holland (expired)
+[18:05:00] No longer banning *!~campo@*.telfort.nl on #Holland (expired)
+[18:12:00] Backing up seen data...
+[18:20:15] -Verkeerd woord- KICKED campo on #Holland matched by telfort
+[18:20:15] Banned campo@#Holland for using telfort.
+[18:23:00] No longer banning *!~campo@77.172.164.189 on #Holland (expired)
+[18:26:00] No longer banning *!~campo@*.164.189 on #Holland (expired)
+[18:30:00] bMotion: running level 4 self-diagnostic
+[18:35:00] Trimming brain...
+[18:35:00] Brain trimmed
+[18:35:00] Saving brain...
+[19:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[19:00:00] Writing user file...
+[19:00:00] Writing channel file...
+[19:00:00] Writing info file ...
+[19:01:00] bMotion: autosaving facts...
+[19:12:00] Backing up seen data...
+[19:15:56] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland AUTH as ArNz|8o8 succeeded
+[19:17:25] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland CHATTR Wheatley- +g
+[19:23:42] Telnet connection: localhost/49300
+[19:23:50] Logged in: ArNz|8o8 (8o8networkz@localhost/49300)
+[19:24:01] #ArNz|8o8# match *
+[19:27:06] Lost dcc connection to ArNz|8o8 (8o8networkz@localhost/49300)
+[19:27:29] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {wie blijft er dan ook telfort roepen} on #Holland
+[19:30:00] bMotion: running level 4 self-diagnostic
+[19:35:00] Trimming brain...
+[19:35:00] Brain trimmed
+[19:35:00] Saving brain...
+[20:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[20:00:00] Writing user file...
+[20:00:00] Writing channel file...
+[20:00:00] Writing info file ...
+[20:01:00] bMotion: autosaving facts...
+[20:08:51] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {ja potjandikkie} on #Holland
+[20:08:58] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {vergelijk me lekker niet met die} on #Holland
+[20:12:00] Backing up seen data...
+[20:12:15] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {lekker hoor, roken} on #Holland
+[20:12:57] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {maar ik ging zo lekker} on #Holland
+[20:24:33] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {dat verklaart de bokkerijders} on #Holland
+[20:30:00] bMotion: running level 4 self-diagnostic
+[20:35:00] Trimming brain...
+[20:35:00] Brain trimmed
+[20:35:00] Saving brain...
+[20:51:06] -Verkeerd woord- KICKED Wheatley- on #Holland matched by {YouTube The Who - Baba O'riley - https://youtu.be/x2KRpRMSu4g | The Who - Baba O'Riley - https://youtu.be/gY5rztWa1TM | Baba O'Riley - https://youtu.be/hKUBTX9kKEo | The Who - Baba O'Riley - https://youtu.be/8c1hYO_BYHY | The Who - Baba O'Riley (Live In Hyde Park) - https://youtu.be/KHwHs9RwXYw }
+[20:51:30] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland WHOIS Wheatley-
+[20:52:10] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland UNBAN *!~Wheatley@Wheatley.users.undernet.org, 1 BotBAN & 1 ChanBAN
+[20:52:36] Telnet connection: localhost/49697
+[20:52:44] Logged in: ArNz|8o8 (8o8networkz@localhost/49697)
+[20:52:59] #ArNz|8o8# chattr Wheatley- +gov
+[20:57:12] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland CHATTR FAILED: invalid flags ()
+[20:57:25] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland WHOIS Skxawng
+[20:57:37] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {say the word kanker} on #Holland
+[20:57:52] -Verkeerd woord- KICKED Skxawng on #Holland matched by kanker
+[20:58:07] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland UNBAN *!samp@WTSh4rK.users.undernet.org, 1 BotBAN & 1 ChanBAN
+[20:58:31] #ArNz|8o8# chattr skxawng +f
+[20:58:58] #ArNz|8o8# chattr skxawng -f
+[20:59:13] #ArNz|8o8# chattr skxawng +g
+[20:59:23] -Verkeerd woord- Skxawng (Skxawng) with +g flag said kanker on #Holland
+[20:59:43] Last message repeated 1 time(s).
+[20:59:43] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {[20:59:23] -Verkeerd woord- Skxawng (Skxawng) with +g flag said kanker on #Holland} on #Holland
+[21:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[21:00:00] Writing user file...
+[21:00:00] Writing channel file...
+[21:00:00] Writing info file ...
+[21:01:00] bMotion: autosaving facts...
+[21:01:21] #ArNz|8o8# chattr wheatley- +g
+[21:01:43] #ArNz|8o8# chattr kwissmiss +g
+[21:01:54] #ArNz|8o8# chattr kwissmiss +f
+[21:02:42] #ArNz|8o8# chattr _^-^_ +gov
+[21:02:53] #ArNz|8o8# chattr [Bianca] +gov
+[21:03:06] #ArNz|8o8# chattr Queen-Mio +gov
+[21:03:41] #ArNz|8o8# chattr schwartz +g
+[21:04:04] #ArNz|8o8# chattr skxawng +gov
+[21:08:23] #ArNz|8o8# restart
+[21:08:23] Writing user file...
+[21:08:23] Writing channel file...
+[21:08:23] Writing info file ...
+[21:08:23] Restarting ...
+[21:08:23] Module unloaded: megahal
+[21:08:23] Module unloaded: assoc
+[21:08:23] Module unloaded: console
+[21:08:23] Module unloaded: notes
+[21:08:23] Module unloaded: compress
+[21:08:23] Sending 'share end' to all sharebots...
+[21:08:23] Unloaded sharing module, flushing tbuf's...
+[21:08:23] Module unloaded: share
+[21:08:23] Unloading transfer module, killing all transfer connections...
+[21:08:23] Module unloaded: transfer
+[21:08:23] Module unloaded: irc
+[21:08:23] Module unloaded: ctcp
+[21:08:23] Module unloaded: server
+[21:08:23] Writing channel file...
+[21:08:23] Module unloaded: channels
+[21:08:23] Module unloaded: dns
+[21:08:23] Listening at telnet port 50542 (all).
+[21:08:23] Module loaded: dns             
+[21:08:23] No longer supporting channel #Holland
+[21:08:23] No longer supporting channel #zoetermeer
+[21:08:23] Module loaded: channels        
+[21:08:23] Module loaded: server          
+[21:08:23] Module loaded: ctcp            
+[21:08:23] Module loaded: irc             
+[21:08:23] Module loaded: transfer         (with lang support)
+[21:08:23] Module loaded: share           
+[21:08:23] Module loaded: compress        
+[21:08:23] Module loaded: notes            (with lang support)
+[21:08:23] Module loaded: console          (with lang support)
+[21:08:23] Module loaded: assoc            (with lang support)
+[21:08:23] MegaHAL v3.5 by ^Baron^ loaded.
+[21:08:23] Module loaded: megahal         
+[21:08:23] bseen1.4.2c:  -- Bass's SEEN loaded --
+[21:08:23]      Loading seen database...
+[21:08:23]      Done loading 89 seen records.
+[21:08:23] bMotion 0.1.0+svn starting up...
+[21:08:23] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[21:08:25] loaded fact module
+[21:08:25] bMotion: new installation, need to send stats/check version...
+[21:08:25] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[21:08:25]          this is not required, but is strongly recommended
+[21:08:25] bMotion 0.1.0+svn AI online :D
+[21:08:25] Verkeerd woord script 1.0a release by ArNz|8o8 loaded
+[21:08:25] **********************************
+[21:08:25] *loading a&a light eggdrop script*
+[21:08:25] **********************************
+[21:08:25] + LOADED core
+[21:08:25] + LOADED binds
+[21:08:25] + LOADED xservice module
+[21:08:25] + LOADED 
+[21:08:25] + LOADED en dictionary
+[21:08:25] + LOADED ro dictionary
+[21:08:25] + LOADED owner commands
+[21:08:25] + LOADED global N commands
+[21:08:25] Last message repeated 1 time(s).
+[21:08:25] + LOADED global m commands
+[21:08:25] + LOADED global o commands
+[21:08:25] + LOADED global l commands
+[21:08:25] + LOADED global v commands
+[21:08:25] + LOADED global s commands
+[21:08:25] + LOADED global Q commands
+[21:08:25] + LOADED local N commands
+[21:08:25] + LOADED local X commands
+[21:08:25] + LOADED local n commands
+[21:08:25] + LOADED local m commands
+[21:08:25] + LOADED local o commands
+[21:08:25] + LOADED local l commands
+[21:08:25] + LOADED local v commands
+[21:08:25] + LOADED local q commands
+[21:08:25] + LOADED local s commands
+[21:08:25] + LOADED info module
+[21:08:25] + LOADED stats module
+[21:08:25] **********************************
+[21:08:25] *a&a light loaded successfully :)*
+[21:08:25] **********************************
+[21:08:25] Writing channel file...
+[21:08:25] Userfile loaded, unpacking...
+[21:08:25] Trying server [amsterdam.nl.eu.undernet.org]:6667
+[21:08:26] Connected to amsterdam.nl.eu.undernet.org
+[21:08:26] -NOTICE- *** Looking up your hostname
+[21:08:26] -NOTICE- *** Checking Ident
+[21:08:26] -NOTICE- *** Got ident response
+[21:08:26] -NOTICE- *** Found your hostname
+[21:08:26] <<frisheid>> BIND ROUTINE -- fr3Sh
+[21:08:27] -NOTICE- on 2 ca 2(4) ft 10(10) tr
+[21:08:31] fr3Sh joined #Holland.
+[21:08:39] fr3Sh joined #zoetermeer.
+[21:09:21] fr3Sh joined #Holland.
+[21:09:44] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland AUTH as ArNz|8o8 succeeded
+[21:09:53] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland WHOIS Skxawng
+[21:10:12] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland CHATTRGL Skxawng +g
+[21:11:13] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland VOICE Skxawng ...
+[21:12:00] Backing up seen data...
+[21:12:47] -Verkeerd woord- Wheatley- (Wheatley-) with +g flag said {YouTube The Who - Baba O'riley - https://youtu.be/x2KRpRMSu4g | The Who - Baba O'Riley - https://youtu.be/gY5rztWa1TM | Baba O'Riley - https://youtu.be/hKUBTX9kKEo | The Who - Baba O'Riley - https://youtu.be/8c1hYO_BYHY | The Who - Baba O'Riley (Live In Hyde Park) - https://youtu.be/KHwHs9RwXYw } on #Holland
+[21:13:09] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {Wheatley-) with +g flag said {YouTube The Who - Baba O'riley - https://youtu.be/x2KRpRMSu4g | The Who - Baba O'Riley - https://youtu.be/gY5rztWa1TM | Baba O'Riley - https://youtu.be/hKUBTX9kKEo | The Who - Baba O'Riley - https://youtu.be/8c1hYO_BYHY | The Who - Baba O'Riley (Live In Hyde Park) - https://youtu.be/KHwHs9RwXYw } on #Holland} on #Holland
+[21:17:02] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said kk on #Holland
+[21:17:21] Writing user file...
+[21:17:21] Writing channel file...
+[21:17:21] Writing info file ...
+[21:17:21] Rehashing...
+[21:17:21] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland REHASH ...
+[21:17:21] Writing channel file...
+[21:17:21] Listening at telnet port 50542 (all).
+[21:17:21] bseen1.4.2c:  -- Bass's SEEN loaded --
+[21:17:21] bMotion 0.1.0+svn starting up...
+[21:17:21] bMotion: loaded settings from the following files: scripts/bmotion/modules/settings.tcl
+[21:17:22] loaded fact module
+[21:17:22] bMotion: new installation, need to send stats/check version...
+[21:17:22] bMotion: diagnostics indicate you haven't loaded the userinfo TCL script
+[21:17:22]          this is not required, but is strongly recommended
+[21:17:22] bMotion 0.1.0+svn AI online :D
+[21:17:22] Verkeerd woord script 1.0a release by ArNz|8o8 loaded
+[21:17:22] **********************************
+[21:17:22] *loading a&a light eggdrop script*
+[21:17:22] **********************************
+[21:17:22] + LOADED core
+[21:17:22] + LOADED binds
+[21:17:22] + LOADED xservice module
+[21:17:22] + LOADED 
+[21:17:22] + LOADED en dictionary
+[21:17:22] + LOADED ro dictionary
+[21:17:22] + LOADED owner commands
+[21:17:22] + LOADED global N commands
+[21:17:23] Last message repeated 1 time(s).
+[21:17:23] + LOADED global m commands
+[21:17:23] + LOADED global o commands
+[21:17:23] + LOADED global l commands
+[21:17:23] + LOADED global v commands
+[21:17:23] + LOADED global s commands
+[21:17:23] + LOADED global Q commands
+[21:17:23] + LOADED local N commands
+[21:17:23] + LOADED local X commands
+[21:17:23] + LOADED local n commands
+[21:17:23] + LOADED local m commands
+[21:17:23] + LOADED local o commands
+[21:17:23] + LOADED local l commands
+[21:17:23] + LOADED local v commands
+[21:17:23] + LOADED local q commands
+[21:17:23] + LOADED local s commands
+[21:17:23] + LOADED info module
+[21:17:23] + LOADED stats module
+[21:17:23] **********************************
+[21:17:23] *a&a light loaded successfully :)*
+[21:17:23] **********************************
+[21:17:23] Writing channel file...
+[21:17:23] Userfile loaded, unpacking...
+[21:18:00] *** Call to driftmood
+[21:18:44] <<ArNz|8o8>> ArNz|8o8!8o8network@8o8networkz.users.undernet.org #Holland PING ArNz|8o8
+[21:21:27] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {.forgetword kanker} on #zoetermeer
+[21:21:27] forget  kanker  by ArNz|8o8
+[21:23:12] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {.forgetword telfort} on #zoetermeer
+[21:23:12] forget  telfort  by ArNz|8o8
+[21:23:24] forget  campo  by ArNz|8o8
+[21:25:10] Lost dcc connection to ArNz|8o8 (8o8networkz@localhost/49697)
+[21:25:34] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {.forgetword nigger} on #zoetermeer
+[21:25:34] forget  nigger  by ArNz|8o8
+[21:27:28] -Verkeerd woord- ArNz|8o8 (ArNz|8o8) with +o flag said {.forgetword kanker} on #Holland
+[21:27:28] forget  kanker  by ArNz|8o8
+[21:30:00] bMotion: running level 4 self-diagnostic
+[21:35:00] Trimming brain...
+[21:35:00] Brain trimmed
+[21:35:00] Saving brain...
+[22:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[22:00:00] Writing user file...
+[22:00:00] Writing channel file...
+[22:00:00] Writing info file ...
+[22:01:00] bMotion: autosaving facts...
+[22:01:00] plural: options list is plural
+[22:12:00] Backing up seen data...
+[22:30:00] bMotion: running level 4 self-diagnostic
+[22:35:00] Trimming brain...
+[22:35:00] Brain trimmed
+[22:35:00] Saving brain...
+[23:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[23:00:00] Writing user file...
+[23:00:00] Writing channel file...
+[23:00:00] Writing info file ...
+[23:01:00] bMotion: autosaving facts...
+[23:12:00] Backing up seen data...
+[23:30:00] bMotion: running level 4 self-diagnostic
+[23:35:00] Trimming brain...
+[23:35:00] Brain trimmed
+[23:35:00] Saving brain...
+[00:00:00] <<frisheid>> TIMED ROUTINE -- 1 HOUR
+[00:00:00] --- Sat Mar 12 2016
+[00:00:00] Backing up channel file...
+[00:00:00] Backing up user file...

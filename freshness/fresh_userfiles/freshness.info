@@ -1,0 +1,11 @@
+#Dynamic Info Channel File for freshness -- written Sun Mar 20 19:00:00 2016
+
+stats:channel -add {#holland} {{RESERVED} {1965600 408 62 22589 637953 12 8.62 27 26 104 200 291 0 0 2 2} {{1456518053 ArNz|8o8} {0  {}} {0  {}} {0  {}} {} {} {} {} {} {} {Whatcha gonna do} {ArNz|8o8} {Deze room heeft een kwis in een nederlandse taal.. Nee, niet in het engels. Niet zeuren dus :)} {} {}}}
+stats:channel -add {#fusion} {{RESERVED} {0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0} {{1456516198 ArNz|8o8} {1456516791 ArNz|8o8 {Bye!}} {0  {}} {0  {}} {} {} {} {} {} {} {} {} {} {} {}}}
+stats:channel -add {#zoetermeer} {{RESERVED} {2160000 125 0 358 8546 4 2.0 20 20 0 26 70 1 0 0 0} {{1456320843 ArNz|8o8} {0  {}} {0  {}} {0  {}} {} {} {} {} {} {} {} {} {} {} {}}}
+stats:channel -add {#world} {{RESERVED} {133200 22 3 12 374 8 6.31 17 0 0 22 21 0 0 0 0} {{1456382902 ArNz|8o8} {1456518080 ArNz|8o8 {thats why!}} {0  {}} {0  {}} {} {} {} {} {} {} {} {} {} {} {}}}
+stats:channel -add {#kwismiss} {{RESERVED} {0 1 0 6 114 0 0 0 0 0 0 0 0 0 0 0} {{1456674352 ArNz|8o8} {1456674998 ArNz|8o8 {KwisMiss}} {0  {}} {0  {}} {} {} {} {} {} {} {} {} {} {} {}}}
+
+#Disabled local & global commands
+
+array set status {version 000400}
