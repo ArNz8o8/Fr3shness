@@ -6,7 +6,7 @@ set learnmode on
 
 # What is the max size the brain should grow to?
 # Set to the max number of nodes not ram
-set maxsize 100000
+set maxsize 10000000
 
 # Flood protection: how many max lines per how many seconds should it respond to?
 set floodmega 10:60
@@ -40,7 +40,7 @@ set learnfreq 1
 set maxcontext 2
 
 # Surprise mode on or off (0/1)
-# This changes the way it constructs sentences. 
+# This changes the way it constructs sentences.
 # If on, it tries to find unconventional combinations of words which means much more fun but also more incoherent sentences
 # If off, sentences are safer but more parrot-like so this is only recommended if the brain size is huge )in which case the bot has many safe options to use).
 set surprise 1
@@ -61,11 +61,11 @@ catch "unbind pub - hal: *pub:hal:"
 bind pub - ${nick}: *pub:hal:
 catch "unbind dcc - hal *dcc:hal"
 bind dcc - $nick *dcc:hal
-set megabotnick $nick 
+set megabotnick $nick
 
 # Save and trim the brain once every hour
 bind time - "35 * * * *" auto_brainsave
-proc auto_brainsave {min b c d e} { 
+proc auto_brainsave {min b c d e} {
   global maxsize
   trimbrain $maxsize
   savebrain
@@ -95,7 +95,7 @@ proc pub_lobotomy {nick uhost hand chan arg} {
  file delete megahal.brn
  reloadbrain
  savebrain
- puthelp "PRIVMSG $chan :Lobotomy completed! Creating a new brain..." 
+ puthelp "PRIVMSG $chan :Lobotomy completed! Creating a new brain..."
 }
 
 bind pub - ".braininfo" pub_braininfo
@@ -103,9 +103,9 @@ proc pub_braininfo {nick uhost hand chan arg} {
   global learnmode
   set for [treesize -1 0]
   set back [treesize -1 1]
-  puthelp "PRIVMSG $chan :My current vocabulary consists of [lindex $for 0] words, my brain size is [expr [lindex $for 1]+[lindex $back 1]] nodes, and learning mode is $learnmode" 
+  puthelp "PRIVMSG $chan :My current vocabulary consists of [lindex $for 0] words, my brain size is [expr [lindex $for 1]+[lindex $back 1]] nodes, and learning mode is $learnmode"
   if {[file exists megahal.old]} {
-    puthelp "PRIVMSG $chan :This brain has been growing for [duration [expr [unixtime] - [file mtime megahal.old]]]" 
+    puthelp "PRIVMSG $chan :This brain has been growing for [duration [expr [unixtime] - [file mtime megahal.old]]]"
   }
 }
 
@@ -119,7 +119,7 @@ proc pub_learningmode {nick uhost hand chan arg} {
   }
   set learnmode $arg1
   learningmode $learnmode
-  puthelp "PRIVMSG $chan :Learning mode is now set to $arg1" 
+  puthelp "PRIVMSG $chan :Learning mode is now set to $arg1"
 }
 
 bind pub m ".talkfrequency" pub_talkfrequency
@@ -127,11 +127,11 @@ proc pub_talkfrequency {nick uhost hand chan arg} {
   global talkfreq
   set arg1 [lindex $arg 0]
   if {$arg1 == ""} {
-   puthelp "PRIVMSG $chan :Talking frequency is set to $talkfreq lines" 
+   puthelp "PRIVMSG $chan :Talking frequency is set to $talkfreq lines"
    return
   }
   set talkfreq $arg1
-  puthelp "PRIVMSG $chan :Talking frequency is now set to $arg1 lines" 
+  puthelp "PRIVMSG $chan :Talking frequency is now set to $arg1 lines"
 }
 
 bind pub n ".restorebrain" pub_restorebrain
@@ -142,9 +142,24 @@ proc pub_restorebrain {nick uhost hand chan arg} {
     reloadbrain
     puthelp "PRIVMSG $chan :Old brain restored!"
   } else {
-    puthelp "PRIVMSG $chan :Old brain not found!" 
+    puthelp "PRIVMSG $chan :Old brain not found!"
   }
 }
+
+bind pub n ".learnfile" pub_learnfile
+proc pub_learnfile {nick host hand chan arg} {
+        if { [llength $arg] != 1 } {
+                puthelp "PRIVMSG $chan :Syntax: .learnfile <name_of_the_file.txt> learns the contents of a file to fr3Sh"
+                return
+        }
+        if { [file readable $arg] } {
+                learnfile $arg
+                puthelp "PRIVMSG $chan :The file contents of $arg is learned."
+        } else {
+                puthelp "PRIVMSG $chan :The file $arg is nonexistent or I do not have the necessary permissions to access it."
+        }
+}
+
 
 proc isnum {num} {
   for {set x 0} {$x < [string length $num]} {incr x} {
